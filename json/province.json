@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "Ilocos Norte",
+        "name": "Ilocos Norte",
+        "region":"Ilocos Region",
+        "languages": {
+          "Tagalog": 0.01,
+          "Bisaya/Binisaya": 0,
+          "Cebuano": 0,
+          "Hiligaynon Ilonggo": 0,
+          "Ilocano": 0.981,
+          "Bikol": 0,
+          "Waray": 0,
+          "Kapampangan": 0,
+          "Pangasinan/Panggalato": 0,
+          "Maguindanao": 0
+        },
+        "population": {
+          "total": 5026128,
+          "male": 2536297,
+          "female": 2489831
+        },
+        "literacy": {
+          "total": 0.99,
+          "male": 0.99,
+          "female": 0.989
+        },
+        "notes": "",
+        "photo": "",
+        "description": "",
+        "phrases": []
+
+    },{
+
+    },{
+
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    },{
+        
+    }
+]
