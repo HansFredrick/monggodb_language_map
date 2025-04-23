@@ -31,7 +31,7 @@
         "female": 0.989
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region1.jpg",
       "description": "",
       "phrases": []
     },
@@ -68,7 +68,7 @@
         "female": 0.968
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region2.jpg",
       "description": "",
       "phrases": []
     },
@@ -144,7 +144,7 @@
         "female": 0.989
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region4a.jpg",
       "description": "",
       "phrases": []
     },
@@ -182,7 +182,7 @@
         "female": 0.977
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region5.jpg",
       "description": "",
       "phrases": []
     },
@@ -219,7 +219,7 @@
         "female": 0.977
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region6.jpg",
       "description": "",
       "phrases": []
     },
@@ -254,7 +254,7 @@
         "female": 0.972
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region7.jpg",
       "description": "",
       "phrases": []
     },
@@ -292,7 +292,7 @@
         "female": 0.945
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region8.jpg",
       "description": "",
       "phrases": []
     },
@@ -328,7 +328,7 @@
         "female": 0.984
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region9.jpg",
       "description": "",
       "phrases": []
     },
@@ -365,7 +365,7 @@
         "female": 0.967
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region10.jpg",
       "description": "",
       "phrases": []
     },
@@ -402,7 +402,7 @@
         "female": 0.983
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region11.jpg",
       "description": "",
       "phrases": []
     },
@@ -439,7 +439,7 @@
         "female": 0.981
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region12.jpg",
       "description": "",
       "phrases": []
     },
@@ -477,7 +477,7 @@
         "female": 0.969
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/car.jpg",
       "description": "",
       "phrases": []
     },
@@ -514,7 +514,7 @@
         "female": 0.992
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/ncr.jpg",
       "description": "",
       "phrases": []
     },
@@ -551,7 +551,7 @@
         "female": 0.984
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/mimaropa.jpg",
       "description": "",
       "phrases": []
     },
@@ -585,7 +585,7 @@
         "female": 0.978
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/nir.jpg",
       "description": "",
       "phrases": []
     },
@@ -622,7 +622,7 @@
         "female": 0.889
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/armm.jpg",
       "description": "",
       "phrases": []
     },
@@ -659,7 +659,7 @@
         "female": 0.967
       },
       "notes": "",
-      "photo": "",
+      "photo": "/images/region13.jpg",
       "description": "",
       "phrases": []
     }
