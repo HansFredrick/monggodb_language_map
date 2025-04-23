@@ -1,0 +1,60 @@
+{
+    "_id": "philippines",
+    "name": "Philippines",
+    "description": "",
+    "Region_id": [
+      "region i",
+      "region ii",
+      "region iii",
+      "region iv-a",
+      "region iv-b",
+      "region v",
+      "region vi",
+      "region vii",
+      "region viii",
+      "region ix",
+      "region x",
+      "region xi",
+      "region xii",
+      "ncr",
+      "car",
+      "armm",
+      "region xiii",
+      "nir"
+    ],
+    "population": {
+      "male": 51069962,
+      "female": 49909341,
+      "total": 100979303
+    },
+    "literacy": {
+      "male": 0.97,
+      "female": 0.972,
+      "all": 0.971
+    },
+    "languages": {
+      "Top_ten": [
+        { "name": "Tagalog", "count": 0.533 },
+        { "name": "Bisaya/Binisaya", "count": 0.118 },
+        { "name": "Cebuano", "count": 0.068 },
+        { "name": "Ilocano", "count": 0.058 },
+        { "name": "Hiligaynon Ilonggo", "count": 0.047 },
+        { "name": "Bikol", "count": 0.032 },
+        { "name": "Waray", "count": 0.020 },
+        { "name": "Kapampangan", "count": 0.018 },
+        { "name": "Pangasinan/Panggalato", "count": 0.010 },
+        { "name": "Maguindanao", "count": 0.009 }
+      ],
+      "Other_language": {
+        "name": "Others",
+        "count": 0.078
+      }
+    },
+    "photo": "",
+    "description": "",
+    "phrases": []
+  }
+  
+  
+  
+  

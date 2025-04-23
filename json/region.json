@@ -1,0 +1,666 @@
+[
+    {
+      "_id": "region I",
+      "name": "Ilocos Region",
+      "province": [
+        "Ilocos Norte",
+        "Ilocos Sur",
+        "La Union",
+        "Pangasinan"
+      ],
+      "languages": {
+        "Tagalog": 0.062,
+        "Bisaya/Binisaya": 0.001,
+        "Cebuano": 0.648,
+        "Hiligaynon Ilonggo": 0,
+        "Ilocano": 0,
+        "Bikol": 0,
+        "Waray": 0.263,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 5026128,
+        "male": 2536297,
+        "female": 2489831
+      },
+      "literacy": {
+        "total": 0.99,
+        "male": 0.99,
+        "female": 0.989
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region II",
+      "name": "Cagayan Valley",
+      "province": [
+        "Batanes",
+        "Cagayan",
+        "Isabela",
+        "Nueva Vizcaya",
+        "Quirino"
+      ],
+      "languages": {
+        "Tagalog": 0.084,
+        "Bisaya/Binisaya": 0.001,
+        "Cebuano": 0,
+        "Ilocano": 0.696,
+        "Hiligaynon Ilonggo": 0,
+        "Bikol": 0,
+        "Waray": 0.001,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 3451410,
+        "male": 1758773,
+        "female": 1692637
+      },
+      "literacy": {
+        "total": 0.965,
+        "male": 0.962,
+        "female": 0.968
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region III",
+      "name": "Central Luzon",
+      "province": [
+        "Bataan",
+        "Bulacan",
+        "Nueva Ecija",
+        "Pampanga",
+        "Tarlac",
+        "Zambales",
+        "Aurora"
+      ],
+      "languages": {
+        "Tagalog": 0.65,
+        "Bisaya/Binisaya": 0.004,
+        "Cebuano": 0.001,
+        "Ilocano": 0.099,
+        "Hiligaynon Ilonggo": 0,
+        "Bikol": 0.001,
+        "Waray": 0.225,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0.001
+      },
+      "population": {
+        "total": 11218177,
+        "male": 5669379,
+        "female": 5548798
+      },
+      "literacy": {
+        "total": 0.99,
+        "male": 0.99,
+        "female": 0.99
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region IV-A",
+      "name": "Calabarzon",
+      "province": [ 
+        "Batangas",
+        "Cavite", 
+        "Laguna", 
+        "Quezon",
+        "Rizal" 
+      ],
+      "languages": {
+        "Tagalog": 0.978,
+        "Bisaya/Binisaya": 0.008,
+        "Cebuano": 0.001,
+        "Ilocano": 0.001,
+        "Hiligaynon Ilonggo": 0.004,
+        "Bikol": 0.001,
+        "Waray": 0,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 14414774,
+        "male": 7221488,
+        "female": 7193286
+      },
+      "literacy": {
+        "total": 0.989,
+        "male": 0.989,
+        "female": 0.989
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region V",
+      "name": "Bicol Region",
+      "province": [
+        "Albay",
+        "Camarines Norte",
+        "Camarines Sur",
+        "Catanduanes",
+        "Masbate",
+        "Sorsogon"
+      ],
+      "languages": {
+        "Tagalog": 0.091,
+        "Bisaya/Binisaya": 0.009,
+        "Cebuano": 0.041,
+        "Ilocano": 0,
+        "Hiligaynon Ilonggo": 0,
+        "Bikol": 0.757,
+        "Waray": 0,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 5796989,
+        "male": 2951135,
+        "female": 2845854
+      },
+      "literacy": {
+        "total": 0.975,
+        "male": 0.973,
+        "female": 0.977
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region VI",
+      "name": "Western Visayas",
+      "province": [
+        "Aklan",
+        "Antique",
+        "Capiz",
+        "Iloilo",
+        "Guimaras"
+      ],
+      "languages": {
+        "Tagalog": 0.004,
+        "Bisaya/Binisaya": 0.002,
+        "Cebuano": 0.003,
+        "Ilocano": 0,
+        "Hiligaynon Ilonggo": 0.457,
+        "Bikol": 0,
+        "Waray": 0.231,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 7536383,
+        "male": 3830514,
+        "female": 3705869
+      },
+      "literacy": {
+        "total": 0.976,
+        "male": 0.974,
+        "female": 0.977
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region VII",
+      "name": "Central Visayas",
+      "province": [
+        "Bohol",
+        "Cebu",
+        "Siquijor"
+      ],
+      "languages": {
+        "Tagalog": 0.002,
+        "Bisaya/Binisaya": 0.163,
+        "Cebuano": 0.83,
+        "Ilocano": 0,
+        "Hiligaynon Ilonggo": 0,
+        "Bikol": 0,
+        "Waray": 0.83,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 7396898,
+        "male": 3743601,
+        "female": 3653297
+      },
+      "literacy": {
+        "total": 0.964,
+        "male": 0.957,
+        "female": 0.972
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region VIII",
+      "name": "Eastern Visayas",
+      "province": [
+        "Eastern Samar",
+        "Leyte",
+        "Northern Samar",
+        "Samar",
+        "Southern Leyte",
+        "Biliran"
+      ],
+      "languages": {
+        "Tagalog": 0.004,
+        "Bisaya/Binisaya": 0.334,
+        "Cebuano": 0.039,
+        "Ilocano": 0,
+        "Hiligaynon Ilonggo": 0,
+        "Bikol": 0,
+        "Waray": 0.619,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 4440150,
+        "male": 2285355,
+        "female": 2154795
+      },
+      "literacy": {
+        "total": 0.945,
+        "male": 0.946,
+        "female": 0.945
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region IX",
+      "name": "Zamboanga Peninsula",
+      "province": [
+        "Zamboanga del Norte",
+        "Zamboanga del Sur",
+        "Zamboanga Sibugay",
+        "City of Isabela"
+      ],
+      "languages": {
+        "Tagalog": 0.011,
+        "Bisaya/Binisaya": 0.542,
+        "Cebuano": 0.107,
+        "Ilocano": 0.002,
+        "Hiligaynon Ilonggo": 0.02,
+        "Bikol": 0,
+        "Waray": 0.013,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 3629783,
+        "male": 1850878,
+        "female": 1778905
+      },
+      "literacy": {
+        "total": 0.983,
+        "male": 0.982,
+        "female": 0.984
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region X",
+      "name": "Northern Mindanao",
+      "province": [
+        "Bukidnon",
+        "Camiguin",
+        "Lanao del Norte",
+        "Misamis Occidental",
+        "Misamis Oriental"
+      ],
+      "languages": {
+        "Tagalog": 0.003,
+        "Bisaya/Binisaya": 0.688,
+        "Cebuano": 0.188,
+        "Ilocano": 0.003,
+        "Hiligaynon Ilonggo": 0.02,
+        "Bikol": 0,
+        "Waray": 0.001,
+        "Kapampangan": 0.001,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 4689302,
+        "male": 2396000,
+        "female": 2293302
+      },
+      "literacy": {
+        "total": 0.962,
+        "male": 0.958,
+        "female": 0.967
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region XI",
+      "name": "Davao Region",
+      "province": [
+        "Davao del Norte",
+        "Davao del Sur",
+        "Davao Oriental",
+        "Compostela Valley",
+        "Davao Occidental"
+      ],
+      "languages": {
+        "Tagalog": 0.019,
+        "Bisaya/Binisaya": 0.675,
+        "Cebuano": 0.152,
+        "Ilocano": 0.003,
+        "Hiligaynon Ilonggo": 0.001,
+        "Bikol": 0,
+        "Waray": 0.001,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0.006
+      },
+      "population": {
+        "total": 4918441,
+        "male": 2414515,
+        "female": 2503926
+      },
+      "literacy": {
+        "total": 0.98,
+        "male": 0.977,
+        "female": 0.983
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region XII",
+      "name": "Soccsksargen",
+      "province": [
+        "Cotabato",
+        "South Cotabato",
+        "Sultan Kudarat",
+        "Sarangani",
+        "Cotabato City"
+      ],
+      "languages": {
+        "Tagalog": 0.017,
+        "Bisaya/Binisaya": 0.453,
+        "Cebuano": 0.362,
+        "Ilocano": 0.001,
+        "Hiligaynon Ilonggo": 0.001,
+        "Bikol": 0.004,
+        "Waray": 0.003,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0.015
+      },
+      "population": {
+        "total": 4050000,
+        "male": 2050000,
+        "female": 2000000
+      },
+      "literacy": {
+        "total": 0.978,
+        "male": 0.975,
+        "female": 0.981
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "car",
+      "name": "Cordillera Administrative Region",
+      "province": [
+        "Abra",
+        "Benguet",
+        "Ifugao",
+        "Kalinga",
+        "Mountain Province",
+        "Apayao"
+      ],
+      "languages": {
+        "Tagalog": 0.198,
+        "Bisaya/Binisaya": 0.012,
+        "Cebuano": 0.004,
+        "Ilocano": 0.664,
+        "Hiligaynon Ilonggo": 0.003,
+        "Bikol": 0,
+        "Waray": 0.001,
+        "Kapampangan": 0.001,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 1710935,
+        "male": 867173,
+        "female": 843762
+      },
+      "literacy": {
+        "total": 0.963,
+        "male": 0.957,
+        "female": 0.969
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "ncr",
+      "name": "National Capital Region",
+      "province": [
+        "City of Manila",
+        "First District",
+        "Second District",
+        "Third District",
+        "Fourth District"
+      ],
+      "languages": {
+        "Tagalog": 0.941,
+        "Bisaya/Binisaya": 0.031,
+        "Cebuano": 0.009,
+        "Ilocano": 0.01,
+        "Hiligaynon Ilonggo": 0.002,
+        "Bikol": 0,
+        "Waray": 0.001,
+        "Kapampangan": 0.002,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0.001
+      },
+      "population": {
+        "total": 12410000,
+        "male": 6220000,
+        "female": 6190000
+      },
+      "literacy": {
+        "total": 0.992,
+        "male": 0.992,
+        "female": 0.992
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region IV-B",
+      "name": "Mimaropa",
+      "province": [
+        "Marinduque",
+        "Occidental Mindoro",
+        "Oriental Mindoro",
+        "Palawan",
+        "Romblon"
+      ],
+      "languages": {
+        "Tagalog": 0.883,
+        "Bisaya/Binisaya": 0.028,
+        "Cebuano": 0.038,
+        "Ilocano": 0,
+        "Hiligaynon Ilonggo": 0.017,
+        "Bikol": 0,
+        "Waray": 0.016,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 2900000,
+        "male": 1450000,
+        "female": 1450000
+      },
+      "literacy": {
+        "total": 0.981,
+        "male": 0.978,
+        "female": 0.984
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "nir",
+      "name": "Negros Island Region",
+      "province": [
+        "Negros Occidental",
+        "Negros Oriental"
+      ],
+      "languages": {
+        "Tagalog": 0.04,
+        "Bisaya/Binisaya": 0.027,
+        "Cebuano": 0.558,
+        "Ilocano": 0,
+        "Hiligaynon Ilonggo": 0.327,
+        "Bikol": 0.002,
+        "Waray": 0.001,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 4411581,
+        "male": 2177130,
+        "female": 2234451
+      },
+      "literacy": {
+        "total": 0.977,
+        "male": 0.975,
+        "female": 0.978
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "armm",
+      "name": "Autonomous Region in Muslim Mindanao",
+      "province": [
+        "Basilan",
+        "Lanao del Sur",
+        "Maguindanao",
+        "Sulu",
+        "Tawi-Tawi"
+      ],
+      "languages": {
+        "Tagalog": 0.088,
+        "Bisaya/Binisaya": 0.204,
+        "Cebuano": 0.027,
+        "Ilocano": 0.001,
+        "Hiligaynon Ilonggo": 0.002,
+        "Bikol": 0,
+        "Waray": 0.008,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0.675
+      },
+      "population": {
+        "total": 3561418,
+        "male": 1744639,
+        "female": 1816779
+      },
+      "literacy": {
+        "total": 0.878,
+        "male": 0.866,
+        "female": 0.889
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    },
+    {
+      "_id": "region XIII",
+      "name": "Caraga",
+      "province": [
+        "Agusan del Norte",
+        "Agusan del Sur",
+        "Surigao del Norte",
+        "Surigao del Sur",
+        "Dinagat Islands"
+      ],
+      "languages": {
+        "Tagalog": 0.02,
+        "Bisaya/Binisaya": 0.818,
+        "Cebuano": 0.11,
+        "Ilocano": 0.013,
+        "Hiligaynon Ilonggo": 0.014,
+        "Bikol": 0,
+        "Waray": 0.004,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 2731696,
+        "male": 1397387,
+        "female": 1334309
+      },
+      "literacy": {
+        "total": 0.962,
+        "male": 0.958,
+        "female": 0.967
+      },
+      "notes": "",
+      "photo": "",
+      "description": "",
+      "phrases": []
+    }
+  ]
