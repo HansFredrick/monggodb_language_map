@@ -1,60 +1,89 @@
 {
-    "_id": "philippines",
-    "name": "Philippines",
-    "description": "",
-    "Region_id": [
-      "region i",
-      "region ii",
-      "region iii",
-      "region iv-a",
-      "region iv-b",
-      "region v",
-      "region vi",
-      "region vii",
-      "region viii",
-      "region ix",
-      "region x",
-      "region xi",
-      "region xii",
-      "ncr",
-      "car",
-      "armm",
-      "region xiii",
-      "nir"
-    ],
-    "population": {
-      "male": 51069962,
-      "female": 49909341,
-      "total": 100979303
-    },
-    "literacy": {
-      "male": 0.97,
-      "female": 0.972,
-      "all": 0.971
-    },
-    "languages": {
-      "Top_ten": [
-        { "name": "Tagalog", "count": 0.533 },
-        { "name": "Bisaya/Binisaya", "count": 0.118 },
-        { "name": "Cebuano", "count": 0.068 },
-        { "name": "Ilocano", "count": 0.058 },
-        { "name": "Hiligaynon Ilonggo", "count": 0.047 },
-        { "name": "Bikol", "count": 0.032 },
-        { "name": "Waray", "count": 0.020 },
-        { "name": "Kapampangan", "count": 0.018 },
-        { "name": "Pangasinan/Panggalato", "count": 0.010 },
-        { "name": "Maguindanao", "count": 0.009 }
-      ],
-      "Other_language": {
-        "name": "Others",
-        "count": 0.078
+  "_id": "philippines",
+  "name": "Philippines",
+  "description": "The Philippines is an archipelago of over 7,000 islands in Southeast Asia, known for its rich culture, stunning landscapes, and diverse population. Its capital is Manila, and it has a history shaped by Spanish, American, and local influences.",
+  "Region_id": [
+    "region i",
+    "region ii",
+    "region iii",
+    "region iv-a",
+    "region iv-b",
+    "region v",
+    "region vi",
+    "region vii",
+    "region viii",
+    "region ix",
+    "region x",
+    "region xi",
+    "region xii",
+    "ncr",
+    "car",
+    "armm",
+    "region xiii",
+    "nir"
+  ],
+  "population": {
+    "male": 51069962,
+    "female": 49909341,
+    "total": 100979303
+  },
+  "literacy": {
+    "male": 0.97,
+    "female": 0.972,
+    "all": 0.971
+  },
+  "languages": {
+    "Top_ten": [
+      {
+        "name": "Tagalog",
+        "count": 0.533
+      },
+      {
+        "name": "Bisaya/Binisaya",
+        "count": 0.118
+      },
+      {
+        "name": "Cebuano",
+        "count": 0.068
+      },
+      {
+        "name": "Ilocano",
+        "count": 0.058
+      },
+      {
+        "name": "Hiligaynon Ilonggo",
+        "count": 0.047
+      },
+      {
+        "name": "Bikol",
+        "count": 0.032
+      },
+      {
+        "name": "Waray",
+        "count": 0.02
+      },
+      {
+        "name": "Kapampangan",
+        "count": 0.018
+      },
+      {
+        "name": "Pangasinan/Panggalato",
+        "count": 0.01
+      },
+      {
+        "name": "Maguindanao",
+        "count": 0.009
       }
-    },
-    "photo": "",
-    "description": "",
-    "phrases": []
-  }
-  
-  
-  
-  
+    ],
+    "Other_language": {
+      "name": "Others",
+      "count": 0.078
+    }
+  },
+  "photo": "",
+  "phrases": [
+    "Ti Ilocos ket naindaklan a lugar a nabanglo ken nadumaduma a kultura.",
+    "Adda kadagiti pakasaritaan iti Ilocos a mangted kadagiti bisita iti napintas a panagkita.",
+    "Ti pagkain iti Ilocos ket napintas ken nasamit, kas iti empanada ken longganisa."
+  ]
+}

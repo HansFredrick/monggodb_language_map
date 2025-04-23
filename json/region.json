@@ -1,666 +1,721 @@
 [
-    {
-      "_id": "region I",
-      "name": "Ilocos Region",
-      "province": [
-        "Ilocos Norte",
-        "Ilocos Sur",
-        "La Union",
-        "Pangasinan"
-      ],
-      "languages": {
-        "Tagalog": 0.062,
-        "Bisaya/Binisaya": 0.001,
-        "Cebuano": 0.648,
-        "Hiligaynon Ilonggo": 0,
-        "Ilocano": 0,
-        "Bikol": 0,
-        "Waray": 0.263,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 5026128,
-        "male": 2536297,
-        "female": 2489831
-      },
-      "literacy": {
-        "total": 0.99,
-        "male": 0.99,
-        "female": 0.989
-      },
-      "notes": "",
-      "photo": "/images/region1.jpg",
-      "description": "",
-      "phrases": []
+  {
+    "_id": "region I",
+    "name": "Ilocos Region",
+    "province": [
+      "Ilocos Norte",
+      "Ilocos Sur",
+      "La Union",
+      "Pangasinan"
+    ],
+    "languages": {
+      "Tagalog": 0.062,
+      "Bisaya/Binisaya": 0.001,
+      "Cebuano": 0.648,
+      "Hiligaynon Ilonggo": 0,
+      "Ilocano": 0,
+      "Bikol": 0,
+      "Waray": 0.263,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
     },
-    {
-      "_id": "region II",
-      "name": "Cagayan Valley",
-      "province": [
-        "Batanes",
-        "Cagayan",
-        "Isabela",
-        "Nueva Vizcaya",
-        "Quirino"
-      ],
-      "languages": {
-        "Tagalog": 0.084,
-        "Bisaya/Binisaya": 0.001,
-        "Cebuano": 0,
-        "Ilocano": 0.696,
-        "Hiligaynon Ilonggo": 0,
-        "Bikol": 0,
-        "Waray": 0.001,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 3451410,
-        "male": 1758773,
-        "female": 1692637
-      },
-      "literacy": {
-        "total": 0.965,
-        "male": 0.962,
-        "female": 0.968
-      },
-      "notes": "",
-      "photo": "/images/region2.jpg",
-      "description": "",
-      "phrases": []
+    "population": {
+      "total": 5026128,
+      "male": 2536297,
+      "female": 2489831
     },
-    {
-      "_id": "region III",
-      "name": "Central Luzon",
-      "province": [
-        "Bataan",
-        "Bulacan",
-        "Nueva Ecija",
-        "Pampanga",
-        "Tarlac",
-        "Zambales",
-        "Aurora"
-      ],
-      "languages": {
-        "Tagalog": 0.65,
-        "Bisaya/Binisaya": 0.004,
-        "Cebuano": 0.001,
-        "Ilocano": 0.099,
-        "Hiligaynon Ilonggo": 0,
-        "Bikol": 0.001,
-        "Waray": 0.225,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0.001
-      },
-      "population": {
-        "total": 11218177,
-        "male": 5669379,
-        "female": 5548798
-      },
-      "literacy": {
-        "total": 0.99,
-        "male": 0.99,
-        "female": 0.99
-      },
-      "notes": "",
-      "photo": "",
-      "description": "",
-      "phrases": []
+    "literacy": {
+      "total": 0.99,
+      "male": 0.99,
+      "female": 0.989
     },
-    {
-      "_id": "region IV-A",
-      "name": "Calabarzon",
-      "province": [ 
-        "Batangas",
-        "Cavite", 
-        "Laguna", 
-        "Quezon",
-        "Rizal" 
-      ],
-      "languages": {
-        "Tagalog": 0.978,
-        "Bisaya/Binisaya": 0.008,
-        "Cebuano": 0.001,
-        "Ilocano": 0.001,
-        "Hiligaynon Ilonggo": 0.004,
-        "Bikol": 0.001,
-        "Waray": 0,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 14414774,
-        "male": 7221488,
-        "female": 7193286
-      },
-      "literacy": {
-        "total": 0.989,
-        "male": 0.989,
-        "female": 0.989
-      },
-      "notes": "",
-      "photo": "/images/region4a.jpg",
-      "description": "",
-      "phrases": []
+    "photo": "",
+    "description": " Known for its rich cultural heritage and historical landmarks, Ilocos is famous for its Spanish colonial architecture, beaches, and the iconic Paoay Church. Its economy is supported by agriculture, tourism, and fishing.",
+    "phrases": [
+      "Ti Ilocos ket naindaklan a lugar a nabanglo ken nadumaduma a kultura.",
+      "Adda kadagiti pakasaritaan iti Ilocos a mangted kadagiti bisita iti napintas a panagkita.",
+      "Ti pagkain iti Ilocos ket napintas ken nasamit, kas iti empanada ken longganisa."
+    ]
+  },
+  {
+    "_id": "region II",
+    "name": "Cagayan Valley",
+    "province": [
+      "Batanes",
+      "Cagayan",
+      "Isabela",
+      "Nueva Vizcaya",
+      "Quirino"
+    ],
+    "languages": {
+      "Tagalog": 0.084,
+      "Bisaya/Binisaya": 0.001,
+      "Cebuano": 0,
+      "Ilocano": 0.696,
+      "Hiligaynon Ilonggo": 0,
+      "Bikol": 0,
+      "Waray": 0.001,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
     },
-    {
-      "_id": "region V",
-      "name": "Bicol Region",
-      "province": [
-        "Albay",
-        "Camarines Norte",
-        "Camarines Sur",
-        "Catanduanes",
-        "Masbate",
-        "Sorsogon"
-      ],
-      "languages": {
-        "Tagalog": 0.091,
-        "Bisaya/Binisaya": 0.009,
-        "Cebuano": 0.041,
-        "Ilocano": 0,
-        "Hiligaynon Ilonggo": 0,
-        "Bikol": 0.757,
-        "Waray": 0,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 5796989,
-        "male": 2951135,
-        "female": 2845854
-      },
-      "literacy": {
-        "total": 0.975,
-        "male": 0.973,
-        "female": 0.977
-      },
-      "notes": "",
-      "photo": "/images/region5.jpg",
-      "description": "",
-      "phrases": []
+    "population": {
+      "total": 3451410,
+      "male": 1758773,
+      "female": 1692637
     },
-    {
-      "_id": "region VI",
-      "name": "Western Visayas",
-      "province": [
-        "Aklan",
-        "Antique",
-        "Capiz",
-        "Iloilo",
-        "Guimaras"
-      ],
-      "languages": {
-        "Tagalog": 0.004,
-        "Bisaya/Binisaya": 0.002,
-        "Cebuano": 0.003,
-        "Ilocano": 0,
-        "Hiligaynon Ilonggo": 0.457,
-        "Bikol": 0,
-        "Waray": 0.231,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 7536383,
-        "male": 3830514,
-        "female": 3705869
-      },
-      "literacy": {
-        "total": 0.976,
-        "male": 0.974,
-        "female": 0.977
-      },
-      "notes": "",
-      "photo": "/images/region6.jpg",
-      "description": "",
-      "phrases": []
+    "literacy": {
+      "total": 0.965,
+      "male": 0.962,
+      "female": 0.968
     },
-    {
-      "_id": "region VII",
-      "name": "Central Visayas",
-      "province": [
-        "Bohol",
-        "Cebu",
-        "Siquijor"
-      ],
-      "languages": {
-        "Tagalog": 0.002,
-        "Bisaya/Binisaya": 0.163,
-        "Cebuano": 0.83,
-        "Ilocano": 0,
-        "Hiligaynon Ilonggo": 0,
-        "Bikol": 0,
-        "Waray": 0.83,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 7396898,
-        "male": 3743601,
-        "female": 3653297
-      },
-      "literacy": {
-        "total": 0.964,
-        "male": 0.957,
-        "female": 0.972
-      },
-      "notes": "",
-      "photo": "/images/region7.jpg",
-      "description": "",
-      "phrases": []
+    "photo": "",
+    "description": "Cagayan Valley is known for its vast rice fields, rich agricultural lands, and the Cagayan River, the longest river in the country. It also boasts stunning natural wonders like the Callao Caves.",
+    "phrases": [
+      "Ti Cagayan Valley ket aglawlaw nga addaan iti naparabor a daga ken dakkel a produksyon ti mula.",
+      "Ti kultura ken kasaysayan ti rehion ket napno iti panagkaykaysa ken panagtignay dagiti tattao.",
+      "Adda dagiti napintas a destinasyon a kas iti Callao Cave ken Cagayan River."
+    ]
+  },
+  {
+    "_id": "region III",
+    "name": "Central Luzon",
+    "province": [
+      "Bataan",
+      "Bulacan",
+      "Nueva Ecija",
+      "Pampanga",
+      "Tarlac",
+      "Zambales",
+      "Aurora"
+    ],
+    "languages": {
+      "Tagalog": 0.65,
+      "Bisaya/Binisaya": 0.004,
+      "Cebuano": 0.001,
+      "Ilocano": 0.099,
+      "Hiligaynon Ilonggo": 0,
+      "Bikol": 0.001,
+      "Waray": 0.225,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0.001
     },
-    {
-      "_id": "region VIII",
-      "name": "Eastern Visayas",
-      "province": [
-        "Eastern Samar",
-        "Leyte",
-        "Northern Samar",
-        "Samar",
-        "Southern Leyte",
-        "Biliran"
-      ],
-      "languages": {
-        "Tagalog": 0.004,
-        "Bisaya/Binisaya": 0.334,
-        "Cebuano": 0.039,
-        "Ilocano": 0,
-        "Hiligaynon Ilonggo": 0,
-        "Bikol": 0,
-        "Waray": 0.619,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 4440150,
-        "male": 2285355,
-        "female": 2154795
-      },
-      "literacy": {
-        "total": 0.945,
-        "male": 0.946,
-        "female": 0.945
-      },
-      "notes": "",
-      "photo": "/images/region8.jpg",
-      "description": "",
-      "phrases": []
+    "population": {
+      "total": 11218177,
+      "male": 5669379,
+      "female": 5548798
     },
-    {
-      "_id": "region IX",
-      "name": "Zamboanga Peninsula",
-      "province": [
-        "Zamboanga del Norte",
-        "Zamboanga del Sur",
-        "Zamboanga Sibugay",
-        "City of Isabela"
-      ],
-      "languages": {
-        "Tagalog": 0.011,
-        "Bisaya/Binisaya": 0.542,
-        "Cebuano": 0.107,
-        "Ilocano": 0.002,
-        "Hiligaynon Ilonggo": 0.02,
-        "Bikol": 0,
-        "Waray": 0.013,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 3629783,
-        "male": 1850878,
-        "female": 1778905
-      },
-      "literacy": {
-        "total": 0.983,
-        "male": 0.982,
-        "female": 0.984
-      },
-      "notes": "",
-      "photo": "/images/region9.jpg",
-      "description": "",
-      "phrases": []
+    "literacy": {
+      "total": 0.99,
+      "male": 0.99,
+      "female": 0.99
     },
-    {
-      "_id": "region X",
-      "name": "Northern Mindanao",
-      "province": [
-        "Bukidnon",
-        "Camiguin",
-        "Lanao del Norte",
-        "Misamis Occidental",
-        "Misamis Oriental"
-      ],
-      "languages": {
-        "Tagalog": 0.003,
-        "Bisaya/Binisaya": 0.688,
-        "Cebuano": 0.188,
-        "Ilocano": 0.003,
-        "Hiligaynon Ilonggo": 0.02,
-        "Bikol": 0,
-        "Waray": 0.001,
-        "Kapampangan": 0.001,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 4689302,
-        "male": 2396000,
-        "female": 2293302
-      },
-      "literacy": {
-        "total": 0.962,
-        "male": 0.958,
-        "female": 0.967
-      },
-      "notes": "",
-      "photo": "/images/region10.jpg",
-      "description": "",
-      "phrases": []
+    "photo": "",
+    "description": "The 'Rice Granary of the Philippines,' Central Luzon is the country’s main rice-producing region. It’s home to Clark Freeport Zone, Subic Bay, and numerous historical sites such as the Barasoain Church.",
+    "phrases": [
+      "Ing Central Luzon metung yang mayamang lugar king agrikultura at kasalesayan.",
+      "Dakal a makasalesayang lugar at masanting a tanam a makikita keng Region III.",
+      "Sikat la reng pagkaing Kapampangan, a kayabe king pamana ning Central Luzon."
+    ]
+  },
+  {
+    "_id": "region IV-A",
+    "name": "Calabarzon",
+    "province": [
+      "Batangas",
+      "Cavite",
+      "Laguna",
+      "Quezon",
+      "Rizal"
+    ],
+    "languages": {
+      "Tagalog": 0.978,
+      "Bisaya/Binisaya": 0.008,
+      "Cebuano": 0.001,
+      "Ilocano": 0.001,
+      "Hiligaynon Ilonggo": 0.004,
+      "Bikol": 0.001,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
     },
-    {
-      "_id": "region XI",
-      "name": "Davao Region",
-      "province": [
-        "Davao del Norte",
-        "Davao del Sur",
-        "Davao Oriental",
-        "Compostela Valley",
-        "Davao Occidental"
-      ],
-      "languages": {
-        "Tagalog": 0.019,
-        "Bisaya/Binisaya": 0.675,
-        "Cebuano": 0.152,
-        "Ilocano": 0.003,
-        "Hiligaynon Ilonggo": 0.001,
-        "Bikol": 0,
-        "Waray": 0.001,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0.006
-      },
-      "population": {
-        "total": 4918441,
-        "male": 2414515,
-        "female": 2503926
-      },
-      "literacy": {
-        "total": 0.98,
-        "male": 0.977,
-        "female": 0.983
-      },
-      "notes": "",
-      "photo": "/images/region11.jpg",
-      "description": "",
-      "phrases": []
+    "population": {
+      "total": 14414774,
+      "male": 7221488,
+      "female": 7193286
     },
-    {
-      "_id": "region XII",
-      "name": "Soccsksargen",
-      "province": [
-        "Cotabato",
-        "South Cotabato",
-        "Sultan Kudarat",
-        "Sarangani",
-        "Cotabato City"
-      ],
-      "languages": {
-        "Tagalog": 0.017,
-        "Bisaya/Binisaya": 0.453,
-        "Cebuano": 0.362,
-        "Ilocano": 0.001,
-        "Hiligaynon Ilonggo": 0.001,
-        "Bikol": 0.004,
-        "Waray": 0.003,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0.015
-      },
-      "population": {
-        "total": 4050000,
-        "male": 2050000,
-        "female": 2000000
-      },
-      "literacy": {
-        "total": 0.978,
-        "male": 0.975,
-        "female": 0.981
-      },
-      "notes": "",
-      "photo": "/images/region12.jpg",
-      "description": "",
-      "phrases": []
+    "literacy": {
+      "total": 0.989,
+      "male": 0.989,
+      "female": 0.989
     },
-    {
-      "_id": "car",
-      "name": "Cordillera Administrative Region",
-      "province": [
-        "Abra",
-        "Benguet",
-        "Ifugao",
-        "Kalinga",
-        "Mountain Province",
-        "Apayao"
-      ],
-      "languages": {
-        "Tagalog": 0.198,
-        "Bisaya/Binisaya": 0.012,
-        "Cebuano": 0.004,
-        "Ilocano": 0.664,
-        "Hiligaynon Ilonggo": 0.003,
-        "Bikol": 0,
-        "Waray": 0.001,
-        "Kapampangan": 0.001,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 1710935,
-        "male": 867173,
-        "female": 843762
-      },
-      "literacy": {
-        "total": 0.963,
-        "male": 0.957,
-        "female": 0.969
-      },
-      "notes": "",
-      "photo": "/images/car.jpg",
-      "description": "",
-      "phrases": []
+    "photo": "",
+    "description": "A bustling economic region, Calabarzon is home to numerous industrial hubs, economic zones, and the famous tourist destination, Tagaytay. It is also known for its historical sites like the Taal Volcano.",
+    "phrases": [
+      "Ang Calabarzon ay tahanan ng mga makasaysayang lugar at modernong kabuhayan.",
+      "Matatagpuan dito ang masarap na pagkain, magagandang tanawin, at masisipag na tao.",
+      "Isa ang Calabarzon sa mga rehiyong may malaking ambag sa ekonomiya ng bansa."
+    ]
+  },
+  {
+    "_id": "region V",
+    "name": "Bicol Region",
+    "province": [
+      "Albay",
+      "Camarines Norte",
+      "Camarines Sur",
+      "Catanduanes",
+      "Masbate",
+      "Sorsogon"
+    ],
+    "languages": {
+      "Tagalog": 0.091,
+      "Bisaya/Binisaya": 0.009,
+      "Cebuano": 0.041,
+      "Ilocano": 0,
+      "Hiligaynon Ilonggo": 0,
+      "Bikol": 0.757,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
     },
-    {
-      "_id": "ncr",
-      "name": "National Capital Region",
-      "province": [
-        "City of Manila",
-        "First District",
-        "Second District",
-        "Third District",
-        "Fourth District"
-      ],
-      "languages": {
-        "Tagalog": 0.941,
-        "Bisaya/Binisaya": 0.031,
-        "Cebuano": 0.009,
-        "Ilocano": 0.01,
-        "Hiligaynon Ilonggo": 0.002,
-        "Bikol": 0,
-        "Waray": 0.001,
-        "Kapampangan": 0.002,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0.001
-      },
-      "population": {
-        "total": 12410000,
-        "male": 6220000,
-        "female": 6190000
-      },
-      "literacy": {
-        "total": 0.992,
-        "male": 0.992,
-        "female": 0.992
-      },
-      "notes": "",
-      "photo": "/images/ncr.jpg",
-      "description": "",
-      "phrases": []
+    "population": {
+      "total": 5796989,
+      "male": 2951135,
+      "female": 2845854
     },
-    {
-      "_id": "region IV-B",
-      "name": "Mimaropa",
-      "province": [
-        "Marinduque",
-        "Occidental Mindoro",
-        "Oriental Mindoro",
-        "Palawan",
-        "Romblon"
-      ],
-      "languages": {
-        "Tagalog": 0.883,
-        "Bisaya/Binisaya": 0.028,
-        "Cebuano": 0.038,
-        "Ilocano": 0,
-        "Hiligaynon Ilonggo": 0.017,
-        "Bikol": 0,
-        "Waray": 0.016,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 2900000,
-        "male": 1450000,
-        "female": 1450000
-      },
-      "literacy": {
-        "total": 0.981,
-        "male": 0.978,
-        "female": 0.984
-      },
-      "notes": "",
-      "photo": "/images/mimaropa.jpg",
-      "description": "",
-      "phrases": []
+    "literacy": {
+      "total": 0.975,
+      "male": 0.973,
+      "female": 0.977
     },
-    {
-      "_id": "nir",
-      "name": "Negros Island Region",
-      "province": [
-        "Negros Occidental",
-        "Negros Oriental"
-      ],
-      "languages": {
-        "Tagalog": 0.04,
-        "Bisaya/Binisaya": 0.027,
-        "Cebuano": 0.558,
-        "Ilocano": 0,
-        "Hiligaynon Ilonggo": 0.327,
-        "Bikol": 0.002,
-        "Waray": 0.001,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 4411581,
-        "male": 2177130,
-        "female": 2234451
-      },
-      "literacy": {
-        "total": 0.977,
-        "male": 0.975,
-        "female": 0.978
-      },
-      "notes": "",
-      "photo": "/images/nir.jpg",
-      "description": "",
-      "phrases": []
+    "photo": "",
+    "description": " Bicol is famous for its majestic Mayon Volcano and stunning natural beauty, including beaches, caves, and waterfalls. Its cuisine, especially Bicol Express, is also well-known.",
+    "phrases": [
+      "Ang Bicol Region ay kilala sa masasarap nitong putahe gaya ng Bicol Express at laing.",
+      "Makikita sa Bicol ang kahanga-hangang Bulkang Mayon na perpekto ang hugis.",
+      "Ang mga Bicolano ay kilala sa kanilang katatagan, kabaitan, at mainit na pagtanggap sa bisita."
+    ]
+  },
+  {
+    "_id": "region VI",
+    "name": "Western Visayas",
+    "province": [
+      "Aklan",
+      "Antique",
+      "Capiz",
+      "Iloilo",
+      "Guimaras"
+    ],
+    "languages": {
+      "Tagalog": 0.004,
+      "Bisaya/Binisaya": 0.002,
+      "Cebuano": 0.003,
+      "Ilocano": 0,
+      "Hiligaynon Ilonggo": 0.457,
+      "Bikol": 0,
+      "Waray": 0.231,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
     },
-    {
-      "_id": "armm",
-      "name": "Autonomous Region in Muslim Mindanao",
-      "province": [
-        "Basilan",
-        "Lanao del Sur",
-        "Maguindanao",
-        "Sulu",
-        "Tawi-Tawi"
-      ],
-      "languages": {
-        "Tagalog": 0.088,
-        "Bisaya/Binisaya": 0.204,
-        "Cebuano": 0.027,
-        "Ilocano": 0.001,
-        "Hiligaynon Ilonggo": 0.002,
-        "Bikol": 0,
-        "Waray": 0.008,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0.675
-      },
-      "population": {
-        "total": 3561418,
-        "male": 1744639,
-        "female": 1816779
-      },
-      "literacy": {
-        "total": 0.878,
-        "male": 0.866,
-        "female": 0.889
-      },
-      "notes": "",
-      "photo": "/images/armm.jpg",
-      "description": "",
-      "phrases": []
+    "population": {
+      "total": 7536383,
+      "male": 3830514,
+      "female": 3705869
     },
-    {
-      "_id": "region XIII",
-      "name": "Caraga",
-      "province": [
-        "Agusan del Norte",
-        "Agusan del Sur",
-        "Surigao del Norte",
-        "Surigao del Sur",
-        "Dinagat Islands"
-      ],
-      "languages": {
-        "Tagalog": 0.02,
-        "Bisaya/Binisaya": 0.818,
-        "Cebuano": 0.11,
-        "Ilocano": 0.013,
-        "Hiligaynon Ilonggo": 0.014,
-        "Bikol": 0,
-        "Waray": 0.004,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
-      },
-      "population": {
-        "total": 2731696,
-        "male": 1397387,
-        "female": 1334309
-      },
-      "literacy": {
-        "total": 0.962,
-        "male": 0.958,
-        "female": 0.967
-      },
-      "notes": "",
-      "photo": "/images/region13.jpg",
-      "description": "",
-      "phrases": []
-    }
-  ]
+    "literacy": {
+      "total": 0.976,
+      "male": 0.974,
+      "female": 0.977
+    },
+    "photo": "",
+    "description": "This region is famous for its beautiful white sand beaches, particularly in Boracay. Western Visayas also has rich cultural traditions, particularly in Iloilo and Negros Occidental.",
+    "phrases": [
+      "Ang Western Visayas amo ang paborito nga destinasyon sa Pilipinas tungod sang mga matahum nga baybayon pareho sang Boracay.",
+      "Sa Visayas, masarap ang mga pagkaon pareho sang La Paz Batchoy kag Pancit Molo.",
+      "Ang mga tawo sa Western Visayas masadya kag mainit ang pagbaton, pirme may ngiti sa ila nawong."
+    ]
+  },
+  {
+    "_id": "region VII",
+    "name": "Central Visayas",
+    "province": [
+      "Bohol",
+      "Cebu",
+      "Siquijor"
+    ],
+    "languages": {
+      "Tagalog": 0.002,
+      "Bisaya/Binisaya": 0.163,
+      "Cebuano": 0.83,
+      "Ilocano": 0,
+      "Hiligaynon Ilonggo": 0,
+      "Bikol": 0,
+      "Waray": 0.83,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 7396898,
+      "male": 3743601,
+      "female": 3653297
+    },
+    "literacy": {
+      "total": 0.964,
+      "male": 0.957,
+      "female": 0.972
+    },
+    "photo": "",
+    "description": "A prime tourism destination, Central Visayas is home to Cebu, known for its historical landmarks, beautiful beaches, and vibrant economy. Bohol and Siquijor are also key attractions.",
+    "phrases": [
+      "Ang Central Visayas may mga matahum nga isla kag baybayon, pareho sang Cebu kag Bohol.",
+      "Sa Cebu, kilala ang lechon nga pinakasikat nga pagkaon.",
+      "Ang mga tawo sa Central Visayas maayo magtulungan kag may masadya nga kultura."
+    ]
+  },
+  {
+    "_id": "region VIII",
+    "name": "Eastern Visayas",
+    "province": [
+      "Eastern Samar",
+      "Leyte",
+      "Northern Samar",
+      "Samar",
+      "Southern Leyte",
+      "Biliran"
+    ],
+    "languages": {
+      "Tagalog": 0.004,
+      "Bisaya/Binisaya": 0.334,
+      "Cebuano": 0.039,
+      "Ilocano": 0,
+      "Hiligaynon Ilonggo": 0,
+      "Bikol": 0,
+      "Waray": 0.619,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 4440150,
+      "male": 2285355,
+      "female": 2154795
+    },
+    "literacy": {
+      "total": 0.945,
+      "male": 0.946,
+      "female": 0.945
+    },
+    "photo": "",
+    "description": "Known for its untouched natural beauty, Eastern Visayas offers stunning islands like Samar and Leyte, and is home to historical landmarks such as the MacArthur Landing Memorial.",
+    "phrases": [
+      "An Eastern Visayas mayda mga matahom nga baybayon ngan bukid.",
+      "An Tacloban, kapital han region, kilala ha mga kasaysayan ngan mga pagkaon nga ira.",
+      "An mga tawo ha Eastern Visayas mayda pagkamaabiabihon ngan magpapaningkamot para han ira komunidad."
+    ]
+  },
+  {
+    "_id": "region IX",
+    "name": "Zamboanga Peninsula",
+    "province": [
+      "Zamboanga del Norte",
+      "Zamboanga del Sur",
+      "Zamboanga Sibugay",
+      "City of Isabela"
+    ],
+    "languages": {
+      "Tagalog": 0.011,
+      "Bisaya/Binisaya": 0.542,
+      "Cebuano": 0.107,
+      "Ilocano": 0.002,
+      "Hiligaynon Ilonggo": 0.02,
+      "Bikol": 0,
+      "Waray": 0.013,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 3629783,
+      "male": 1850878,
+      "female": 1778905
+    },
+    "literacy": {
+      "total": 0.983,
+      "male": 0.982,
+      "female": 0.984
+    },
+    "photo": "",
+    "description": "This region is known for its diverse cultures, including a mix of Muslim, Christian, and indigenous influences. The region has rich marine resources, scenic beaches, and is home to the famous city of Zamboanga.",
+    "phrases": [
+      "El Zamboanga Peninsula ta tiene muchos lugar hermoso como playa y montaña.",
+      "Zamboanga ciudad ta famoso con su sabor a comida como el satti y el curacha.",
+      "El gente de Zamboanga Peninsula ta conocido por su hospitalidad y amabilidad."
+    ]
+  },
+  {
+    "_id": "region X",
+    "name": "Northern Mindanao",
+    "province": [
+      "Bukidnon",
+      "Camiguin",
+      "Lanao del Norte",
+      "Misamis Occidental",
+      "Misamis Oriental"
+    ],
+    "languages": {
+      "Tagalog": 0.003,
+      "Bisaya/Binisaya": 0.688,
+      "Cebuano": 0.188,
+      "Ilocano": 0.003,
+      "Hiligaynon Ilonggo": 0.02,
+      "Bikol": 0,
+      "Waray": 0.001,
+      "Kapampangan": 0.001,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 4689302,
+      "male": 2396000,
+      "female": 2293302
+    },
+    "literacy": {
+      "total": 0.962,
+      "male": 0.958,
+      "female": 0.967
+    },
+    "photo": "",
+    "description": "Northern Mindanao is a region known for its stunning natural landscapes, including mountains, waterfalls, and beaches. It is home to diverse cultures and traditions, and plays a key role in agriculture, producing rice, corn, and fruit",
+    "phrases": [
+      "Ti Northern Mindanao ket napnuan iti napintas a tan-awen, kas iti mga bukid ken baybay.",
+      "Adda dagiti nasirag a kultura ken kasaysayan iti Northern Mindanao a makikita kadagiti lokal a festival.",
+      "Ti Northern Mindanao ket agpaay a kayat ti agtaliwad iti nature, adda dagiti napintas a talon ken danum."
+    ]
+  },
+  {
+    "_id": "region XI",
+    "name": "Davao Region",
+    "province": [
+      "Davao del Norte",
+      "Davao del Sur",
+      "Davao Oriental",
+      "Compostela Valley",
+      "Davao Occidental"
+    ],
+    "languages": {
+      "Tagalog": 0.019,
+      "Bisaya/Binisaya": 0.675,
+      "Cebuano": 0.152,
+      "Ilocano": 0.003,
+      "Hiligaynon Ilonggo": 0.001,
+      "Bikol": 0,
+      "Waray": 0.001,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0.006
+    },
+    "population": {
+      "total": 4918441,
+      "male": 2414515,
+      "female": 2503926
+    },
+    "literacy": {
+      "total": 0.98,
+      "male": 0.977,
+      "female": 0.983
+    },
+    "photo": "",
+    "description": " Davao is known for the majestic Mount Apo, the highest peak in the Philippines. The region is a key agricultural hub and has a thriving eco-tourism industry with unique wildlife and forests",
+    "phrases": [
+      "Ang Davao Region kay usa sa mga pinakabantugan nga lugar sa Mindanao.",
+      "Davao City kilala sa iyang malipayong atmospera ug sa pagka-safe niini.",
+      "Ang mga pagkaon sa Davao, sama sa durian ug mangosteen, kay kilala sa tibuok kalibutan."
+    ]
+  },
+  {
+    "_id": "region XII",
+    "name": "Soccsksargen",
+    "province": [
+      "Cotabato",
+      "South Cotabato",
+      "Sultan Kudarat",
+      "Sarangani",
+      "Cotabato City"
+    ],
+    "languages": {
+      "Tagalog": 0.017,
+      "Bisaya/Binisaya": 0.453,
+      "Cebuano": 0.362,
+      "Ilocano": 0.001,
+      "Hiligaynon Ilonggo": 0.001,
+      "Bikol": 0.004,
+      "Waray": 0.003,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0.015
+    },
+    "population": {
+      "total": 4050000,
+      "male": 2050000,
+      "female": 2000000
+    },
+    "literacy": {
+      "total": 0.978,
+      "male": 0.975,
+      "female": 0.981
+    },
+    "photo": "",
+    "description": "Soccsksargen is known for its agricultural products like corn, pineapples, and coffee. It also offers stunning natural attractions like Lake Sebu and the T'boli culture.",
+    "phrases": [
+      "Ang Soccsksargen kay usa ka rehiyon nga kilala sa daghang mga umahan ug mga produkto sa agrikultura.",
+      "Ang mga tawo sa Soccsksargen kay masilakon ug masaligan sa ilang mga tradisyon.",
+      "Ang mga pagkaon sa Soccsksargen, sama sa tinagtag ug paksiw, kay popular sa mga lokal ug bisita."
+    ]
+  },
+  {
+    "_id": "car",
+    "name": "Cordillera Administrative Region",
+    "province": [
+      "Abra",
+      "Benguet",
+      "Ifugao",
+      "Kalinga",
+      "Mountain Province",
+      "Apayao"
+    ],
+    "languages": {
+      "Tagalog": 0.198,
+      "Bisaya/Binisaya": 0.012,
+      "Cebuano": 0.004,
+      "Ilocano": 0.664,
+      "Hiligaynon Ilonggo": 0.003,
+      "Bikol": 0,
+      "Waray": 0.001,
+      "Kapampangan": 0.001,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 1710935,
+      "male": 867173,
+      "female": 843762
+    },
+    "literacy": {
+      "total": 0.963,
+      "male": 0.957,
+      "female": 0.969
+    },
+    "photo": "",
+    "description": "This mountainous region is known for its indigenous tribes, particularly the Igorot people. The Cordilleras are famous for their rice terraces, with the Banaue Rice Terraces being a UNESCO World Heritage Site.",
+    "phrases": [
+      "Ti Cordillera Administrative Region ket nabugbugan a kabakiran a nangipundar ti napateg a kultura.",
+      "Adda iti CAR ti dadakkel a baryo a mangted kadagiti natibker a produkto a kasla ti abel, bagnet, ken pinakbet.",
+      "Ti kabambantayan ti CAR ket nasaysayaat a pasyalan para iti agpa-adal, agturismo, ken ag-sports."
+    ]
+  },
+  {
+    "_id": "ncr",
+    "name": "National Capital Region",
+    "province": [
+      "City of Manila",
+      "First District",
+      "Second District",
+      "Third District",
+      "Fourth District"
+    ],
+    "languages": {
+      "Tagalog": 0.941,
+      "Bisaya/Binisaya": 0.031,
+      "Cebuano": 0.009,
+      "Ilocano": 0.01,
+      "Hiligaynon Ilonggo": 0.002,
+      "Bikol": 0,
+      "Waray": 0.001,
+      "Kapampangan": 0.002,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0.001
+    },
+    "population": {
+      "total": 12410000,
+      "male": 6220000,
+      "female": 6190000
+    },
+    "literacy": {
+      "total": 0.992,
+      "male": 0.992,
+      "female": 0.992
+    },
+    "photo": "",
+    "description": "The economic, cultural, and political center of the Philippines, NCR (Metro Manila) is a bustling metropolis, home to historical landmarks, malls, and the heart of government offices.",
+    "phrases": [
+      "Ang National Capital Region ay sentro ng kalakalan at kultura ng bansa.",
+      "Makikita sa NCR ang mga modernong imprastruktura at mga sikat na destinasyon para sa turismo.",
+      "Ang NCR ay mayamang kasaysayan na nagsisilbing halimbawa ng urbanisasyon at kaunlaran sa Pilipinas."
+    ]
+  },
+  {
+    "_id": "region IV-B",
+    "name": "Mimaropa",
+    "province": [
+      "Marinduque",
+      "Occidental Mindoro",
+      "Oriental Mindoro",
+      "Palawan",
+      "Romblon"
+    ],
+    "languages": {
+      "Tagalog": 0.883,
+      "Bisaya/Binisaya": 0.028,
+      "Cebuano": 0.038,
+      "Ilocano": 0,
+      "Hiligaynon Ilonggo": 0.017,
+      "Bikol": 0,
+      "Waray": 0.016,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 2900000,
+      "male": 1450000,
+      "female": 1450000
+    },
+    "literacy": {
+      "total": 0.981,
+      "male": 0.978,
+      "female": 0.984
+    },
+    "photo": "",
+    "description": "Comprising the islands of Mindoro, Marinduque, Romblon, and Palawan, Mimaropa is known for its pristine beaches, natural reserves, and diverse marine life. Palawan is a global tourist destination.",
+    "phrases": [
+      "Ang Mimaropa ay kilala sa mga magagandang beach at natural na tanawin.",
+      "Sa Mimaropa, matutunghayan ang mayamang kultura at kasaysayan ng mga katutubong mamamayan.",
+      "Ang mga pagkain sa Mimaropa, tulad ng seafood, ay tamis at masarap, na sumasalamin sa yaman ng dagat."
+    ]
+  },
+  {
+    "_id": "nir",
+    "name": "Negros Island Region",
+    "province": [
+      "Negros Occidental",
+      "Negros Oriental"
+    ],
+    "languages": {
+      "Tagalog": 0.04,
+      "Bisaya/Binisaya": 0.027,
+      "Cebuano": 0.558,
+      "Ilocano": 0,
+      "Hiligaynon Ilonggo": 0.327,
+      "Bikol": 0.002,
+      "Waray": 0.001,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 4411581,
+      "male": 2177130,
+      "female": 2234451
+    },
+    "literacy": {
+      "total": 0.977,
+      "male": 0.975,
+      "female": 0.978
+    },
+    "photo": "",
+    "description": "Famous for its sugar industry, Negros Island also boasts stunning beaches, rich biodiversity, and vibrant local festivals, particularly the MassKara Festival in Bacolod City.",
+    "phrases": [
+      "Ang Negros Island Region usa ka rehiyon nga nahimutang sa tunga-tungang bahin sa Visayas.",
+      "Kilala ang Negros Island sa mga matahom nga tan-awon ug mga plantasyon sa tubo.",
+      "Ang kultura sa Negros Island puno sa mga kasaysayan sa mga mang-uuma ug mga industriya sa asukal."
+    ]
+  },
+  {
+    "_id": "armm",
+    "name": "Autonomous Region in Muslim Mindanao",
+    "province": [
+      "Basilan",
+      "Lanao del Sur",
+      "Maguindanao",
+      "Sulu",
+      "Tawi-Tawi"
+    ],
+    "languages": {
+      "Tagalog": 0.088,
+      "Bisaya/Binisaya": 0.204,
+      "Cebuano": 0.027,
+      "Ilocano": 0.001,
+      "Hiligaynon Ilonggo": 0.002,
+      "Bikol": 0,
+      "Waray": 0.008,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0.675
+    },
+    "population": {
+      "total": 3561418,
+      "male": 1744639,
+      "female": 1816779
+    },
+    "literacy": {
+      "total": 0.878,
+      "male": 0.866,
+      "female": 0.889
+    },
+    "photo": "",
+    "description": "A culturally rich region, ARMM is home to diverse Muslim communities, with rich traditions, crafts, and cuisine. It also offers stunning beaches and historical sites, such as the beautiful beaches of Tawi-Tawi.",
+    "phrases": [
+      "Ang ARMM usa ka rehiyon nga adunay daghang kultura ug kasaysayan nga nagtan-aw sa mga Muslim sa Mindanao.",
+      "Ang mga katawhang ARMM nagpakita ug kalipay ug respeto sa ilang tradisyon ug relihiyon.",
+      "Ang ARMM puno sa mga lugar nga maayo alang sa agrikultura ug kalibutanong kinabuhi."
+    ]
+  }
+  {
+    "_id": "region XIII",
+    "name": "Caraga",
+    "province": [
+      "Agusan del Norte",
+      "Agusan del Sur",
+      "Surigao del Norte",
+      "Surigao del Sur",
+      "Dinagat Islands"
+    ],
+    "languages": {
+      "Tagalog": 0.02,
+      "Bisaya/Binisaya": 0.818,
+      "Cebuano": 0.11,
+      "Ilocano": 0.013,
+      "Hiligaynon Ilonggo": 0.014,
+      "Bikol": 0,
+      "Waray": 0.004,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 2731696,
+      "male": 1397387,
+      "female": 1334309
+    },
+    "literacy": {
+      "total": 0.962,
+      "male": 0.958,
+      "female": 0.967
+    },
+    "photo": "",
+    "description": "Located in Mindanao, Caraga is known for its mineral resources and natural attractions, including enchanted rivers, waterfalls, and pristine beaches. It is home to a rich cultural heritage and abundant wildlife.",
+    "phrases": [
+      "Ang Caraga usa ka rehiyon sa Mindanao nga puno sa mga natural nga kahimtang ug kalikupan.",
+      "Ang mga tawo sa Caraga nagapakita ug kahayag sa ilang mga tradisyon ug kultura.",
+      "Ang Caraga usa ka lugar nga puno sa mga bukid, suba, ug dagat, nga maayo alang sa mga adventurero."
+    ]
+  }
+
+]
