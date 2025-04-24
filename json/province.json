@@ -1,18 +1,17 @@
 [
     {
-        "_id": "Ilocos Norte",
-        "name": "Ilocos Norte",
-        "region":"Ilocos Region",
+        "_id": "pangasinan",
+        "province_name": "Pangasinan",
         "languages": {
-          "Tagalog": 0.01,
-          "Bisaya/Binisaya": 0,
+          "Tagalog": 0.088,
+          "Bisaya/Binisaya": 0.001,
           "Cebuano": 0,
           "Hiligaynon Ilonggo": 0,
-          "Ilocano": 0.981,
+          "Ilocano": 0.442,
           "Bikol": 0,
           "Waray": 0,
           "Kapampangan": 0,
-          "Pangasinan/Panggalato": 0,
+          "Pangasinan/Panggalato": 0.447,
           "Maguindanao": 0
         },
         "population": {
@@ -25,78 +24,128 @@
           "male": 0.99,
           "female": 0.989
         },
-        "notes": "",
         "photo": "",
         "description": "",
         "phrases": []
 
-    },{
+    }, {
+      "_id": "quirino",
+      "province_name": "Quirino",
+      "languages": {
+        "Tagalog": 0.05,
+        "Bisaya/Binisaya": 0.006,
+        "Cebuano": 0,
+        "Hiligaynon Ilonggo": 0,
+        "Ilocano": 0.767,
+        "Bikol": 0.001,
+        "Waray": 0,
+        "Kapampangan": 0,
+        "Pangasinan/Panggalato": 0,
+        "Maguindanao": 0
+      },
+      "population": {
+        "total": 5026128,
+        "male": 2536297,
+        "female": 2489831
+      },
+      "literacy": {
+        "total": 0.99,
+        "male": 0.99,
+        "female": 0.989
+      },
+      "photo": "",
+      "description": "",
+      "phrases": []
 
-    },{
+  }, {
+    "_id": "aurora",
+    "province_name": "Aurora",
+    "languages": {
+      "Tagalog": 0.707,
+      "Bisaya/Binisaya": 0.002,
+      "Cebuano": 0.001,
+      "Hiligaynon Ilonggo": 0,
+      "Ilocano": 0.261,
+      "Bikol": 0.008,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 5026128,
+      "male": 2536297,
+      "female": 2489831
+    },
+    "literacy": {
+      "total": 0.99,
+      "male": 0.99,
+      "female": 0.989
+    },
+    "photo": "",
+    "description": "",
+    "phrases": []
 
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    },{
-        
-    }
+}, {
+  "_id": "sorsogon",
+  "province_name": "Sorsogon",
+  "languages": {
+    "Tagalog": 0.009,
+    "Bisaya/Binisaya": 0.001,
+    "Cebuano": 0,
+    "Hiligaynon Ilonggo": 0,
+    "Ilocano": 0,
+    "Bikol": 0.989,
+    "Waray": 0,
+    "Kapampangan": 0,
+    "Pangasinan/Panggalato": 0,
+    "Maguindanao": 0
+  },
+  "population": {
+    "total": 5026128,
+    "male": 2536297,
+    "female": 2489831
+  },
+  "literacy": {
+    "total": 0.99,
+    "male": 0.99,
+    "female": 0.989
+  },
+  "photo": "",
+  "description": "",
+  "phrases": []
+
+}, {
+  "_id": "guimaras",
+  "province_name": "Guimaras",
+  "languages": {
+    "Tagalog": 0.001,
+    "Bisaya/Binisaya": 0,
+    "Cebuano": 0.001,
+    "Hiligaynon Ilonggo": 0.926,
+    "Ilocano": 0,
+    "Bikol": 0,
+    "Waray": 0,
+    "Kapampangan": 0,
+    "Pangasinan/Panggalato": 0,
+    "Maguindanao": 0.07
+  },
+  "population": {
+    "total": 5026128,
+    "male": 2536297,
+    "female": 2489831
+  },
+  "literacy": {
+    "total": 0.99,
+    "male": 0.99,
+    "female": 0.989
+  },
+  "photo": "",
+  "description": "",
+  "phrases": []
+
+}
+    
+
+
 ]
