@@ -2,7 +2,7 @@
   "_id": "philippines",
   "name": "Philippines",
   "description": "The Philippines is an archipelago of over 7,000 islands in Southeast Asia, known for its rich culture, stunning landscapes, and diverse population. Its capital is Manila, and it has a history shaped by Spanish, American, and local influences.",
-  "Region_id": [
+  "region_id": [
     "region I",
     "region II",
     "region III",
@@ -82,8 +82,17 @@
   },
   "photo": "",
   "phrases": [
-    "Ti Ilocos ket naindaklan a lugar a nabanglo ken nadumaduma a kultura.",
-    "Adda kadagiti pakasaritaan iti Ilocos a mangted kadagiti bisita iti napintas a panagkita.",
-    "Ti pagkain iti Ilocos ket napintas ken nasamit, kas iti empanada ken longganisa."
+    {
+      "phil": "Ti Ilocos ket naindaklan a lugar a nabanglo ken nadumaduma a kultura.",
+      "eng": "Ilocos is a wonderful place with a rich and diverse culture."
+    },
+    {
+      "phil": "Adda kadagiti pakasaritaan iti Ilocos a mangted kadagiti bisita iti napintas a panagkita.",
+      "eng": "Ilocos has historical sites that offer visitors beautiful experiences."
+    },
+    {
+      "phil": "Ti pagkain iti Ilocos ket napintas ken nasamit, kas iti empanada ken longganisa.",
+      "eng": "The food in Ilocos is delicious and flavorful, such as empanada and longganisa."
+    }
   ]
 }

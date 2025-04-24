@@ -1,63 +1,89 @@
 [
-    {
-        "_id": "pangasinan",
-        "province_name": "Pangasinan",
-        "languages": {
-          "Tagalog": 0.088,
-          "Bisaya/Binisaya": 0.001,
-          "Cebuano": 0,
-          "Hiligaynon Ilonggo": 0,
-          "Ilocano": 0.442,
-          "Bikol": 0,
-          "Waray": 0,
-          "Kapampangan": 0,
-          "Pangasinan/Panggalato": 0.447,
-          "Maguindanao": 0
-        },
-        "population": {
-          "total": 2956726,
-          "male": 1493708,
-          "female": 1463018
-        },
-        "literacy": {
-          "total": 0.992,
-          "male": 0.992,
-          "female": 0.992
-        },
-        "photo": "",
-        "description": "",
-        "phrases": []
-
-    }, {
-      "_id": "quirino",
-      "province_name": "Quirino",
-      "languages": {
-        "Tagalog": 0.05,
-        "Bisaya/Binisaya": 0.006,
-        "Cebuano": 0,
-        "Hiligaynon Ilonggo": 0,
-        "Ilocano": 0.767,
-        "Bikol": 0.001,
-        "Waray": 0,
-        "Kapampangan": 0,
-        "Pangasinan/Panggalato": 0,
-        "Maguindanao": 0
+  {
+    "_id": "pangasinan",
+    "province_name": "Pangasinan",
+    "languages": {
+      "Tagalog": 0.088,
+      "Bisaya/Binisaya": 0.001,
+      "Cebuano": 0,
+      "Hiligaynon Ilonggo": 0,
+      "Ilocano": 0.442,
+      "Bikol": 0,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0.447,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 2956726,
+      "male": 1493708,
+      "female": 1463018
+    },
+    "literacy": {
+      "total": 0.992,
+      "male": 0.992,
+      "female": 0.992
+    },
+    "photo": "",
+    "description": "Say Aurora ya probinsya ed Luzon ya agpa-pakita ya kaaniblan na kultura ya Pangasinan. Say lugar ya mayaman ed kasaysayan ya mayroong mga baybay, kabundukan, tanob na pwesto, ya magagandang tanawin.",
+    "phrases": [
+      {
+        "phil": "Kumusta ka? Sana ay okay ka ed ya masaya so ed sikato ya gagawin.",
+        "eng": "How are you? I hope you're okay and happy with what you're doing."
       },
-      "population": {
-        "total": 188991,
-        "male": 97594,
-        "female": 91397
+      {
+        "phil": "Salamat ya dakkel ed sikato tulong. Saan ko et magawa ed la et na.",
+        "eng": "Thank you so much for your help. I couldn't have done it without you."
       },
-      "literacy": {
-        "total": 0.969,
-        "male": 0.968,
-        "female": 0.97
+      {
+        "phil": "Mangan tayo ya masarap ya makan ya magkwentuhan.",
+        "eng": "Let's eat some delicious food and chat."
+      }
+    ]
+  },
+  {
+    "_id": "quirino",
+    "province_name": "Quirino",
+    "languages": {
+      "Tagalog": 0.05,
+      "Bisaya/Binisaya": 0.006,
+      "Cebuano": 0,
+      "Hiligaynon Ilonggo": 0,
+      "Ilocano": 0.767,
+      "Bikol": 0.001,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 188991,
+      "male": 97594,
+      "female": 91397
+    },
+    "literacy": {
+      "total": 0.969,
+      "male": 0.968,
+      "female": 0.97
+    },
+    "photo": "",
+    "description": "Say Quirino ya probinsya ed Luzon ya ya baley ya makikita na masusing mga kultura, dagiti bungto, tanom ya lugar ya maganda, ya masarakan ed ibabaw, ed palibot ya pampang na lugar.",
+    "phrases": [
+      {
+        "phil": "Kumusta ka? Sana ay okay ka ed ya masaya so ed sikato ya gagawin.",
+        "eng": "How are you? I hope you're okay and happy with what you're doing."
       },
-      "photo": "",
-      "description": "",
-      "phrases": [""]
-
-  }, {
+      {
+        "phil": "Salamat ya dakkel ed sikato tulong. Saan ko et magawa ed la et na.",
+        "eng": "Thank you so much for your help. I couldn't have done it without you."
+      },
+      {
+        "phil": "Mangan tayo ya masarap ya makan ya magkwentuhan.",
+        "eng": "Let's eat some delicious food and chat."
+      }
+    ]
+  },
+  {
     "_id": "aurora",
     "province_name": "Aurora",
     "languages": {
@@ -83,69 +109,95 @@
       "female": 0.987
     },
     "photo": "",
-    "description": "",
-    "phrases": [""]
-
-}, {
-  "_id": "sorsogon",
-  "province_name": "Sorsogon",
-  "languages": {
-    "Tagalog": 0.009,
-    "Bisaya/Binisaya": 0.001,
-    "Cebuano": 0,
-    "Hiligaynon Ilonggo": 0,
-    "Ilocano": 0,
-    "Bikol": 0.989,
-    "Waray": 0,
-    "Kapampangan": 0,
-    "Pangasinan/Panggalato": 0,
-    "Maguindanao": 0
+    "description": "Say Aurora ya probinsya ed Luzon ya agpa-pakita ya kaaniblan na kultura ya Pangasinan. Say lugar ya mayaman ed kasaysayan ya mayroong mga baybay, kabundukan, tanob na pwesto, ya magagandang tanawin.",
+    "phrases": [
+      "Kumusta ka? Sana ay okay ka ed ya masaya so ed sikato ya gagawin.",
+      "Maraming salamat sa iyong tulong. Hindi ko ito magagawa nang mag-isa.",
+      "Mangan tayo ng masarap na pagkain at magkwentuhan."
+    ]
   },
-  "population": {
-    "total": 792949,
-    "male": 404509,
-    "female": 388440
+  {
+    "_id": "sorsogon",
+    "province_name": "Sorsogon",
+    "languages": {
+      "Tagalog": 0.009,
+      "Bisaya/Binisaya": 0.001,
+      "Cebuano": 0,
+      "Hiligaynon Ilonggo": 0,
+      "Ilocano": 0,
+      "Bikol": 0.989,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0
+    },
+    "population": {
+      "total": 792949,
+      "male": 404509,
+      "female": 388440
+    },
+    "literacy": {
+      "total": 0.986,
+      "male": 0.986,
+      "female": 0.987
+    },
+    "photo": "",
+    "description": "An Sorsogon ay isang probinsya sa rehiyon ng Bicol sa Luzon. Mayaman ito sa likas na yaman at may mga makulay na kultura. Kilala ang Sorsogon sa mga natural na tanawin, bundok, at mga beach.",
+    "phrases": [
+      {
+        "phil": "Kamusta ka? Sana masaya ka sa araw na ito.",
+        "eng": "How are you? I hope you're happy today."
+      },
+      {
+        "phil": "Maraming salamat sa iyong pagtulong, hindi ko ito magagawa ng mag-isa.",
+        "eng": "Thank you so much for your help, I couldn't have done it on my own."
+      },
+      {
+        "phil": "Mangan ta, mag-kwentuhan ta sa tabing-dagat.",
+        "eng": "Let's eat and chat by the beach."
+      }
+    ]
   },
-  "literacy": {
-    "total": 0.986,
-    "male": 0.986,
-    "female": 0.987
-  },
-  "photo": "",
-  "description": "",
-  "phrases": []
-
-}, {
-  "_id": "guimaras",
-  "province_name": "Guimaras",
-  "languages": {
-    "Tagalog": 0.001,
-    "Bisaya/Binisaya": 0,
-    "Cebuano": 0.001,
-    "Hiligaynon Ilonggo": 0.926,
-    "Ilocano": 0,
-    "Bikol": 0,
-    "Waray": 0,
-    "Kapampangan": 0,
-    "Pangasinan/Panggalato": 0,
-    "Maguindanao": 0.07
-  },
-  "population": {
-    "total": 174613,
-    "male": 89644,
-    "female": 84969
-  },
-  "literacy": {
-    "total": 0.978,
-    "male": 0.977,
-    "female": 0.979
-  },
-  "photo": "",
-  "description": "",
-  "phrases": []
-
-}
-    
-
-
+  {
+    "_id": "guimaras",
+    "province_name": "Guimaras",
+    "languages": {
+      "Tagalog": 0.001,
+      "Bisaya/Binisaya": 0,
+      "Cebuano": 0.001,
+      "Hiligaynon Ilonggo": 0.926,
+      "Ilocano": 0,
+      "Bikol": 0,
+      "Waray": 0,
+      "Kapampangan": 0,
+      "Pangasinan/Panggalato": 0,
+      "Maguindanao": 0.07
+    },
+    "population": {
+      "total": 174613,
+      "male": 89644,
+      "female": 84969
+    },
+    "literacy": {
+      "total": 0.978,
+      "male": 0.977,
+      "female": 0.979
+    },
+    "photo": "",
+    "description": "Ang Guimaras ay isang maliit na probinsya sa rehiyon ng Western Visayas. Kilala ito sa mga magagandang beach, mga prubinsya ng mangga, at masiglang kultura. Dito matatagpuan ang ilang mga tanyag na pasyalan at likas na yaman.",
+    "phrases": [
+      {
+        "phil": "Kamusta ka? Sana ay maayo ka kag malipay sa imo adlaw.",
+        "eng": "How are you? I hope you're well and happy today."
+      },
+      {
+        "phil": "Madamo gid nga salamat sa imo bulig, indi ko ini maghimo nga ako lang.",
+        "eng": "Thank you so much for your help, I couldn't have done this on my own."
+      },
+      {
+        "phil": "Mangga ta, magkaon ta sang mga pagkaon kag mag istorya.",
+        "eng": "Let's go, let's eat some food and chat."
+      }
+    ]
+  }
 ]
