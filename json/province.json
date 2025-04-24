@@ -55,7 +55,7 @@
       },
       "photo": "",
       "description": "",
-      "phrases": []
+      "phrases": [""]
 
   }, {
     "_id": "aurora",
@@ -84,7 +84,7 @@
     },
     "photo": "",
     "description": "",
-    "phrases": []
+    "phrases": [""]
 
 }, {
   "_id": "sorsogon",
