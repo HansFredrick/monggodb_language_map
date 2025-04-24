@@ -24,7 +24,7 @@
       "male": 0.992,
       "female": 0.992
     },
-    "photo": "",
+    "photo": "/images/provinces/pangasinan.jpg",
     "description": "Say Aurora ya probinsya ed Luzon ya agpa-pakita ya kaaniblan na kultura ya Pangasinan. Say lugar ya mayaman ed kasaysayan ya mayroong mga baybay, kabundukan, tanob na pwesto, ya magagandang tanawin.",
     "phrases": [
       {
@@ -66,7 +66,7 @@
       "male": 0.968,
       "female": 0.97
     },
-    "photo": "",
+    "photo": "/images/provinces/quirino.jpg",
     "description": "Say Quirino ya probinsya ed Luzon ya ya baley ya makikita na masusing mga kultura, dagiti bungto, tanom ya lugar ya maganda, ya masarakan ed ibabaw, ed palibot ya pampang na lugar.",
     "phrases": [
       {
@@ -108,7 +108,7 @@
       "male": 0.986,
       "female": 0.987
     },
-    "photo": "",
+    "photo": "/images/provinces/aurora.jpg",
     "description": "Say Aurora ya probinsya ed Luzon ya agpa-pakita ya kaaniblan na kultura ya Pangasinan. Say lugar ya mayaman ed kasaysayan ya mayroong mga baybay, kabundukan, tanob na pwesto, ya magagandang tanawin.",
     "phrases": [
       "Kumusta ka? Sana ay okay ka ed ya masaya so ed sikato ya gagawin.",
@@ -141,7 +141,7 @@
       "male": 0.986,
       "female": 0.987
     },
-    "photo": "",
+    "photo": "/images/provinces/sorsogon.jpg",
     "description": "An Sorsogon ay isang probinsya sa rehiyon ng Bicol sa Luzon. Mayaman ito sa likas na yaman at may mga makulay na kultura. Kilala ang Sorsogon sa mga natural na tanawin, bundok, at mga beach.",
     "phrases": [
       {
@@ -183,7 +183,7 @@
       "male": 0.977,
       "female": 0.979
     },
-    "photo": "",
+    "photo": "/images/provinces/guimaras.jpg",
     "description": "Ang Guimaras ay isang maliit na probinsya sa rehiyon ng Western Visayas. Kilala ito sa mga magagandang beach, mga prubinsya ng mangga, at masiglang kultura. Dito matatagpuan ang ilang mga tanyag na pasyalan at likas na yaman.",
     "phrases": [
       {

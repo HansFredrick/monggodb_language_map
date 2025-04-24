@@ -24,7 +24,7 @@
       "male": 0.99,
       "female": 0.989
     },
-    "photo": "",
+    "photo": "/images/region/region1.jpg",
     "description": " Known for its rich cultural heritage and historical landmarks, Ilocos is famous for its Spanish colonial architecture, beaches, and the iconic Paoay Church. Its economy is supported by agriculture, tourism, and fishing.",
     "phrases": [
       {
@@ -79,7 +79,7 @@
       "male": 0.962,
       "female": 0.968
     },
-    "photo": "",
+    "photo": "/images/region/region2.jpg",
     "description": "Cagayan Valley is known for its vast rice fields, rich agricultural lands, and the Cagayan River, the longest river in the country. It also boasts stunning natural wonders like the Callao Caves.",
     "phrases": [
       {
@@ -130,7 +130,7 @@
       "male": 0.99,
       "female": 0.99
     },
-    "photo": "",
+    "photo": "/images/region/region3.jpg",
     "description": "The 'Rice Granary of the Philippines,' Central Luzon is the country’s main rice-producing region. It’s home to Clark Freeport Zone, Subic Bay, and numerous historical sites such as the Barasoain Church.",
     "phrases": [
       {
@@ -179,7 +179,7 @@
       "male": 0.989,
       "female": 0.989
     },
-    "photo": "",
+    "photo": "/images/region/region4a.jpg",
     "description": "A bustling economic region, Calabarzon is home to numerous industrial hubs, economic zones, and the famous tourist destination, Tagaytay. It is also known for its historical sites like the Taal Volcano.",
     "phrases": [
       {
@@ -229,7 +229,7 @@
       "male": 0.973,
       "female": 0.977
     },
-    "photo": "",
+    "photo": "/images/region/region5.jpg",
     "description": " Bicol is famous for its majestic Mayon Volcano and stunning natural beauty, including beaches, caves, and waterfalls. Its cuisine, especially Bicol Express, is also well-known.",
     "phrases": [
       {
@@ -278,7 +278,7 @@
       "male": 0.974,
       "female": 0.977
     },
-    "photo": "",
+    "photo": "/images/region/region6.jpg",
     "description": "This region is famous for its beautiful white sand beaches, particularly in Boracay. Western Visayas also has rich cultural traditions, particularly in Iloilo and Negros Occidental.",
     "phrases": [
       {
@@ -325,7 +325,7 @@
       "male": 0.957,
       "female": 0.972
     },
-    "photo": "",
+    "photo": "/images/region/region7.jpg",
     "description": "A prime tourism destination, Central Visayas is home to Cebu, known for its historical landmarks, beautiful beaches, and vibrant economy. Bohol and Siquijor are also key attractions.",
     "phrases": [
       {
@@ -375,7 +375,7 @@
       "male": 0.946,
       "female": 0.945
     },
-    "photo": "",
+    "photo": "/images/region/region8.jpg",
     "description": "Known for its untouched natural beauty, Eastern Visayas offers stunning islands like Samar and Leyte, and is home to historical landmarks such as the MacArthur Landing Memorial.",
     "phrases": [
       {
@@ -423,7 +423,7 @@
       "male": 0.982,
       "female": 0.984
     },
-    "photo": "",
+    "photo": "/images/region/region9.jpg",
     "description": "This region is known for its diverse cultures, including a mix of Muslim, Christian, and indigenous influences. The region has rich marine resources, scenic beaches, and is home to the famous city of Zamboanga.",
     "phrases": [
       {
@@ -472,7 +472,7 @@
       "male": 0.958,
       "female": 0.967
     },
-    "photo": "",
+    "photo": "/images/region/region10.jpg",
     "description": "Northern Mindanao is a region known for its stunning natural landscapes, including mountains, waterfalls, and beaches. It is home to diverse cultures and traditions, and plays a key role in agriculture, producing rice, corn, and fruit",
     "phrases": [
       {
@@ -521,7 +521,7 @@
       "male": 0.977,
       "female": 0.983
     },
-    "photo": "",
+    "photo": "/images/region/region11.jpg",
     "description": " Davao is known for the majestic Mount Apo, the highest peak in the Philippines. The region is a key agricultural hub and has a thriving eco-tourism industry with unique wildlife and forests",
     "phrases": [
       {
@@ -570,7 +570,7 @@
       "male": 0.975,
       "female": 0.981
     },
-    "photo": "",
+    "photo": "/images/region/region12.jpg",
     "description": "Soccsksargen is known for its agricultural products like corn, pineapples, and coffee. It also offers stunning natural attractions like Lake Sebu and the T'boli culture.",
     "phrases": [
       {
@@ -620,7 +620,7 @@
       "male": 0.957,
       "female": 0.969
     },
-    "photo": "",
+    "photo": "/images/region/car.jpg",
     "description": "This mountainous region is known for its indigenous tribes, particularly the Igorot people. The Cordilleras are famous for their rice terraces, with the Banaue Rice Terraces being a UNESCO World Heritage Site.",
     "phrases": [
       {
@@ -669,7 +669,7 @@
       "male": 0.992,
       "female": 0.992
     },
-    "photo": "",
+    "photo": "/images/region/ncr.jpg",
     "description": "The economic, cultural, and political center of the Philippines, NCR (Metro Manila) is a bustling metropolis, home to historical landmarks, malls, and the heart of government offices.",
     "phrases": [
       {
@@ -718,7 +718,7 @@
       "male": 0.978,
       "female": 0.984
     },
-    "photo": "",
+    "photo": "/images/region/mimaropa.jpg",
     "description": "Comprising the islands of Mindoro, Marinduque, Romblon, and Palawan, Mimaropa is known for its pristine beaches, natural reserves, and diverse marine life. Palawan is a global tourist destination.",
     "phrases": [
       {
@@ -764,7 +764,7 @@
       "male": 0.975,
       "female": 0.978
     },
-    "photo": "",
+    "photo": "/images/region/nir.jpg",
     "description": "Famous for its sugar industry, Negros Island also boasts stunning beaches, rich biodiversity, and vibrant local festivals, particularly the MassKara Festival in Bacolod City.",
     "phrases": [
       {
@@ -813,7 +813,7 @@
       "male": 0.866,
       "female": 0.889
     },
-    "photo": "",
+    "photo": "/images/region/barmm.jpg",
     "description": "A culturally rich region, ARMM is home to diverse Muslim communities, with rich traditions, crafts, and cuisine. It also offers stunning beaches and historical sites, such as the beautiful beaches of Tawi-Tawi.",
     "phrases": [
       {
@@ -862,7 +862,7 @@
       "male": 0.958,
       "female": 0.967
     },
-    "photo": "",
+    "photo": "/images/region/region13.jpg",
     "description": "Located in Mindanao, Caraga is known for its mineral resources and natural attractions, including enchanted rivers, waterfalls, and pristine beaches. It is home to a rich cultural heritage and abundant wildlife.",
     "phrases": [
       {
