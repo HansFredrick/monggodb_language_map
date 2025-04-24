@@ -2,12 +2,6 @@
   {
     "_id": "region I",
     "name": "Ilocos Region",
-    "province": [
-      "Ilocos Norte",
-      "Ilocos Sur",
-      "La Union",
-      "Pangasinan"
-    ],
     "languages": {
       "Tagalog": 0.062,
       "Bisaya/Binisaya": 0.001,
@@ -33,20 +27,35 @@
     "photo": "",
     "description": " Known for its rich cultural heritage and historical landmarks, Ilocos is famous for its Spanish colonial architecture, beaches, and the iconic Paoay Church. Its economy is supported by agriculture, tourism, and fishing.",
     "phrases": [
-      "Ti Ilocos ket naindaklan a lugar a nabanglo ken nadumaduma a kultura.",
-      "Adda kadagiti pakasaritaan iti Ilocos a mangted kadagiti bisita iti napintas a panagkita.",
-      "Ti pagkain iti Ilocos ket napintas ken nasamit, kas iti empanada ken longganisa."
+      {
+        "phil": "Ti Ilocos ket naindaklan a lugar a nabanglo ken nadumaduma a kultura.",
+        "eng": "Ilocos is a wonderful place with a rich and diverse culture."
+      },
+      {
+        "phil": "Adda kadagiti pakasaritaan iti Ilocos a mangted kadagiti bisita iti napintas a panagkita.",
+        "eng": "There are historical sites in Ilocos that offer visitors a beautiful experience."
+      },
+      {
+        "phil": "Ti pagkain iti Ilocos ket napintas ken nasamit, kas iti empanada ken longganisa.",
+        "eng": "The food in Ilocos is delicious and flavorful, like empanada and longganisa."
+      }
+    ],
+    "province_id": [
+      "ilocos norte",
+      "ilocos sur",
+      "la union",
+      "pangasinan"
     ]
   },
   {
     "_id": "region II",
     "name": "Cagayan Valley",
-    "province": [
-      "Batanes",
-      "Cagayan",
-      "Isabela",
-      "Nueva Vizcaya",
-      "Quirino"
+    "province_id": [
+      "batanes",
+      "cagayan",
+      "isabela",
+      "nueva vizcaya",
+      "quirino"
     ],
     "languages": {
       "Tagalog": 0.084,
@@ -73,22 +82,31 @@
     "photo": "",
     "description": "Cagayan Valley is known for its vast rice fields, rich agricultural lands, and the Cagayan River, the longest river in the country. It also boasts stunning natural wonders like the Callao Caves.",
     "phrases": [
-      "Ti Cagayan Valley ket aglawlaw nga addaan iti naparabor a daga ken dakkel a produksyon ti mula.",
-      "Ti kultura ken kasaysayan ti rehion ket napno iti panagkaykaysa ken panagtignay dagiti tattao.",
-      "Adda dagiti napintas a destinasyon a kas iti Callao Cave ken Cagayan River."
+      {
+        "phil": "Ti Cagayan Valley ket aglawlaw nga addaan iti naparabor a daga ken dakkel a produksyon ti mula.",
+        "eng": "Cagayan Valley is a region with fertile land and a large agricultural output."
+      },
+      {
+        "phil": "Ti kultura ken kasaysayan ti rehion ket napno iti panagkaykaysa ken panagtignay dagiti tattao.",
+        "eng": "The region’s culture and history are rich in unity and cooperation among its people."
+      },
+      {
+        "phil": "Adda dagiti napintas a destinasyon a kas iti Callao Cave ken Cagayan River.",
+        "eng": "There are beautiful destinations like Callao Cave and Cagayan River."
+      }
     ]
   },
   {
     "_id": "region III",
     "name": "Central Luzon",
     "province_id": [
-      "Bataan",
-      "Bulacan",
-      "Nueva Ecija",
-      "Pampanga",
-      "Tarlac",
-      "Zambales",
-      "Aurora"
+      "bataan",
+      "bulacan",
+      "nueva ecija",
+      "pampanga",
+      "tarlac",
+      "zambales",
+      "aurora"
     ],
     "languages": {
       "Tagalog": 0.65,
@@ -115,20 +133,29 @@
     "photo": "",
     "description": "The 'Rice Granary of the Philippines,' Central Luzon is the country’s main rice-producing region. It’s home to Clark Freeport Zone, Subic Bay, and numerous historical sites such as the Barasoain Church.",
     "phrases": [
-      "Ing Central Luzon metung yang mayamang lugar king agrikultura at kasalesayan.",
-      "Dakal a makasalesayang lugar at masanting a tanam a makikita keng Region III.",
-      "Sikat la reng pagkaing Kapampangan, a kayabe king pamana ning Central Luzon."
+      {
+        "phil": "Ing Central Luzon metung yang mayamang lugar king agrikultura at kasalesayan.",
+        "eng": "Central Luzon is a rich region in agriculture and history."
+      },
+      {
+        "phil": "Dakal a makasalesayang lugar at masanting a tanam a makikita keng Region III.",
+        "eng": "There are many historical places and beautiful landscapes to see in Region III."
+      },
+      {
+        "phil": "Sikat la reng pagkaing Kapampangan, a kayabe king pamana ning Central Luzon.",
+        "eng": "Kapampangan dishes are famous and part of Central Luzon’s heritage."
+      }
     ]
   },
   {
     "_id": "region IV-A",
     "name": "Calabarzon",
-    "province": [
-      "Batangas",
-      "Cavite",
-      "Laguna",
-      "Quezon",
-      "Rizal"
+    "province_id": [
+      "batangas",
+      "cavite",
+      "laguna",
+      "quezon",
+      "rizal"
     ],
     "languages": {
       "Tagalog": 0.978,
@@ -155,9 +182,18 @@
     "photo": "",
     "description": "A bustling economic region, Calabarzon is home to numerous industrial hubs, economic zones, and the famous tourist destination, Tagaytay. It is also known for its historical sites like the Taal Volcano.",
     "phrases": [
-      "Ang Calabarzon ay tahanan ng mga makasaysayang lugar at modernong kabuhayan.",
-      "Matatagpuan dito ang masarap na pagkain, magagandang tanawin, at masisipag na tao.",
-      "Isa ang Calabarzon sa mga rehiyong may malaking ambag sa ekonomiya ng bansa."
+      {
+        "phil": "Ang Calabarzon ay tahanan ng mga makasaysayang lugar at modernong kabuhayan.",
+        "eng": "Calabarzon is home to historical sites and modern industries."
+      },
+      {
+        "phil": "Matatagpuan dito ang masarap na pagkain, magagandang tanawin, at masisipag na tao.",
+        "eng": "Here, you'll find delicious food, beautiful scenery, and hardworking people."
+      },
+      {
+        "phil": "Isa ang Calabarzon sa mga rehiyong may malaking ambag sa ekonomiya ng bansa.",
+        "eng": "Calabarzon is one of the regions with a major contribution to the nation's economy."
+      }
     ]
   },
   {
@@ -196,20 +232,29 @@
     "photo": "",
     "description": " Bicol is famous for its majestic Mayon Volcano and stunning natural beauty, including beaches, caves, and waterfalls. Its cuisine, especially Bicol Express, is also well-known.",
     "phrases": [
-      "Ang Bicol Region ay kilala sa masasarap nitong putahe gaya ng Bicol Express at laing.",
-      "Makikita sa Bicol ang kahanga-hangang Bulkang Mayon na perpekto ang hugis.",
-      "Ang mga Bicolano ay kilala sa kanilang katatagan, kabaitan, at mainit na pagtanggap sa bisita."
+      {
+        "phil": "Ang Bicol Region ay kilala sa masasarap nitong putahe gaya ng Bicol Express at laing.",
+        "eng": "The Bicol Region is known for its delicious dishes like Bicol Express and laing."
+      },
+      {
+        "phil": "Makikita sa Bicol ang kahanga-hangang Bulkang Mayon na perpekto ang hugis.",
+        "eng": "Bicol is home to the majestic Mayon Volcano, known for its perfect cone shape."
+      },
+      {
+        "phil": "Ang mga Bicolano ay kilala sa kanilang katatagan, kabaitan, at mainit na pagtanggap sa bisita.",
+        "eng": "Bicolanos are known for their resilience, kindness, and warm hospitality toward visitors."
+      }
     ]
   },
   {
     "_id": "region VI",
     "name": "Western Visayas",
-    "province": [
-      "Aklan",
-      "Antique",
-      "Capiz",
-      "Iloilo",
-      "Guimaras"
+    "province_id": [
+      "aklan",
+      "antique",
+      "capiz",
+      "iloilo",
+      "guimaras"
     ],
     "languages": {
       "Tagalog": 0.004,
@@ -236,9 +281,18 @@
     "photo": "",
     "description": "This region is famous for its beautiful white sand beaches, particularly in Boracay. Western Visayas also has rich cultural traditions, particularly in Iloilo and Negros Occidental.",
     "phrases": [
-      "Ang Western Visayas amo ang paborito nga destinasyon sa Pilipinas tungod sang mga matahum nga baybayon pareho sang Boracay.",
-      "Sa Visayas, masarap ang mga pagkaon pareho sang La Paz Batchoy kag Pancit Molo.",
-      "Ang mga tawo sa Western Visayas masadya kag mainit ang pagbaton, pirme may ngiti sa ila nawong."
+      {
+        "phil": "Ang Western Visayas amo ang paborito nga destinasyon sa Pilipinas tungod sang mga matahum nga baybayon pareho sang Boracay.",
+        "eng": "Western Visayas is a favorite destination in the Philippines because of its beautiful beaches like Boracay."
+      },
+      {
+        "phil": "Sa Visayas, masarap ang mga pagkaon pareho sang La Paz Batchoy kag Pancit Molo.",
+        "eng": "In the Visayas, the food is delicious, like La Paz Batchoy and Pancit Molo."
+      },
+      {
+        "phil": "Ang mga tawo sa Western Visayas masadya kag mainit ang pagbaton, pirme may ngiti sa ila nawong.",
+        "eng": "People in Western Visayas are joyful and welcoming, always with a smile on their face."
+      }
     ]
   },
   {
@@ -274,21 +328,30 @@
     "photo": "",
     "description": "A prime tourism destination, Central Visayas is home to Cebu, known for its historical landmarks, beautiful beaches, and vibrant economy. Bohol and Siquijor are also key attractions.",
     "phrases": [
-      "Ang Central Visayas may mga matahum nga isla kag baybayon, pareho sang Cebu kag Bohol.",
-      "Sa Cebu, kilala ang lechon nga pinakasikat nga pagkaon.",
-      "Ang mga tawo sa Central Visayas maayo magtulungan kag may masadya nga kultura."
+      {
+        "phil": "Ang Central Visayas may mga matahum nga isla kag baybayon, pareho sang Cebu kag Bohol.",
+        "eng": "Central Visayas has beautiful islands and beaches, like Cebu and Bohol."
+      },
+      {
+        "phil": "Sa Cebu, kilala ang lechon nga pinakasikat nga pagkaon.",
+        "eng": "In Cebu, lechon is the most famous dish."
+      },
+      {
+        "phil": "Ang mga tawo sa Central Visayas maayo magtulungan kag may masadya nga kultura.",
+        "eng": "The people of Central Visayas are helpful and have a joyful culture."
+      }
     ]
   },
   {
     "_id": "region VIII",
     "name": "Eastern Visayas",
-    "province": [
-      "Eastern Samar",
-      "Leyte",
-      "Northern Samar",
-      "Samar",
-      "Southern Leyte",
-      "Biliran"
+    "province_id": [
+      "eastern samar",
+      "leyte",
+      "northern samar",
+      "samar",
+      "southern leyte",
+      "biliran"
     ],
     "languages": {
       "Tagalog": 0.004,
@@ -315,9 +378,18 @@
     "photo": "",
     "description": "Known for its untouched natural beauty, Eastern Visayas offers stunning islands like Samar and Leyte, and is home to historical landmarks such as the MacArthur Landing Memorial.",
     "phrases": [
-      "An Eastern Visayas mayda mga matahom nga baybayon ngan bukid.",
-      "An Tacloban, kapital han region, kilala ha mga kasaysayan ngan mga pagkaon nga ira.",
-      "An mga tawo ha Eastern Visayas mayda pagkamaabiabihon ngan magpapaningkamot para han ira komunidad."
+      {
+        "phil": "An Eastern Visayas mayda mga matahom nga baybayon ngan bukid.",
+        "eng": "Eastern Visayas has beautiful beaches and mountains."
+      },
+      {
+        "phil": "An Tacloban, kapital han region, kilala ha mga kasaysayan ngan mga pagkaon nga ira.",
+        "eng": "Tacloban, the capital of the region, is known for its history and local foods."
+      },
+      {
+        "phil": "An mga tawo ha Eastern Visayas mayda pagkamaabiabihon ngan magpapaningkamot para han ira komunidad.",
+        "eng": "The people of Eastern Visayas are hospitable and hardworking for their community."
+      }
     ]
   },
   {
@@ -354,20 +426,29 @@
     "photo": "",
     "description": "This region is known for its diverse cultures, including a mix of Muslim, Christian, and indigenous influences. The region has rich marine resources, scenic beaches, and is home to the famous city of Zamboanga.",
     "phrases": [
-      "El Zamboanga Peninsula ta tiene muchos lugar hermoso como playa y montaña.",
-      "Zamboanga ciudad ta famoso con su sabor a comida como el satti y el curacha.",
-      "El gente de Zamboanga Peninsula ta conocido por su hospitalidad y amabilidad."
+      {
+        "phil": "El Zamboanga Peninsula ta tiene muchos lugar hermoso como playa y montaña.",
+        "eng": "The Zamboanga Peninsula has many beautiful places like beaches and mountains."
+      },
+      {
+        "phil": "Zamboanga ciudad ta famoso con su sabor a comida como el satti y el curacha.",
+        "eng": "Zamboanga City is famous for its flavorful foods like satti and curacha."
+      },
+      {
+        "phil": "El gente de Zamboanga Peninsula ta conocido por su hospitalidad y amabilidad.",
+        "eng": "The people of Zamboanga Peninsula are known for their hospitality and kindness."
+      }
     ]
   },
   {
     "_id": "region X",
     "name": "Northern Mindanao",
-    "province": [
-      "Bukidnon",
-      "Camiguin",
-      "Lanao del Norte",
-      "Misamis Occidental",
-      "Misamis Oriental"
+    "province_id": [
+      "bukidnon",
+      "camiguin",
+      "lanao del norte",
+      "misamis occidental",
+      "misamis oriental"
     ],
     "languages": {
       "Tagalog": 0.003,
@@ -394,20 +475,29 @@
     "photo": "",
     "description": "Northern Mindanao is a region known for its stunning natural landscapes, including mountains, waterfalls, and beaches. It is home to diverse cultures and traditions, and plays a key role in agriculture, producing rice, corn, and fruit",
     "phrases": [
-      "Ti Northern Mindanao ket napnuan iti napintas a tan-awen, kas iti mga bukid ken baybay.",
-      "Adda dagiti nasirag a kultura ken kasaysayan iti Northern Mindanao a makikita kadagiti lokal a festival.",
-      "Ti Northern Mindanao ket agpaay a kayat ti agtaliwad iti nature, adda dagiti napintas a talon ken danum."
+      {
+        "phil": "Ti Northern Mindanao ket napnuan iti napintas a tan-awen, kas iti mga bukid ken baybay.",
+        "eng": "Northern Mindanao is filled with beautiful sights, such as mountains and beaches."
+      },
+      {
+        "phil": "Adda dagiti nasirag a kultura ken kasaysayan iti Northern Mindanao a makikita kadagiti lokal a festival.",
+        "eng": "Northern Mindanao has a rich culture and history that can be seen in its local festivals."
+      },
+      {
+        "phil": "Ti Northern Mindanao ket agpaay a kayat ti agtaliwad iti nature, adda dagiti napintas a talon ken danum.",
+        "eng": "Northern Mindanao is perfect for nature lovers, with beautiful waterfalls and rivers."
+      }
     ]
   },
   {
     "_id": "region XI",
     "name": "Davao Region",
-    "province": [
-      "Davao del Norte",
-      "Davao del Sur",
-      "Davao Oriental",
-      "Compostela Valley",
-      "Davao Occidental"
+    "province_id": [
+      "davao del norte",
+      "davao del sur",
+      "davao oriental",
+      "compostela valley",
+      "davao occidental"
     ],
     "languages": {
       "Tagalog": 0.019,
@@ -434,20 +524,29 @@
     "photo": "",
     "description": " Davao is known for the majestic Mount Apo, the highest peak in the Philippines. The region is a key agricultural hub and has a thriving eco-tourism industry with unique wildlife and forests",
     "phrases": [
-      "Ang Davao Region kay usa sa mga pinakabantugan nga lugar sa Mindanao.",
-      "Davao City kilala sa iyang malipayong atmospera ug sa pagka-safe niini.",
-      "Ang mga pagkaon sa Davao, sama sa durian ug mangosteen, kay kilala sa tibuok kalibutan."
+      {
+        "phil": "Ang Davao Region kay usa sa mga pinakabantugan nga lugar sa Mindanao.",
+        "eng": "Davao Region is one of the most renowned places in Mindanao."
+      },
+      {
+        "phil": "Davao City kilala sa iyang malipayong atmospera ug sa pagka-safe niini.",
+        "eng": "Davao City is known for its cheerful atmosphere and its safety."
+      },
+      {
+        "phil": "Ang mga pagkaon sa Davao, sama sa durian ug mangosteen, kay kilala sa tibuok kalibutan.",
+        "eng": "The foods in Davao, like durian and mangosteen, are known worldwide."
+      }
     ]
   },
   {
     "_id": "region XII",
     "name": "Soccsksargen",
-    "province": [
-      "Cotabato",
-      "South Cotabato",
-      "Sultan Kudarat",
-      "Sarangani",
-      "Cotabato City"
+    "province_id": [
+      "cotabato",
+      "south cotabato",
+      "sultan kudarat",
+      "sarangani",
+      "cotabato city"
     ],
     "languages": {
       "Tagalog": 0.017,
@@ -474,21 +573,30 @@
     "photo": "",
     "description": "Soccsksargen is known for its agricultural products like corn, pineapples, and coffee. It also offers stunning natural attractions like Lake Sebu and the T'boli culture.",
     "phrases": [
-      "Ang Soccsksargen kay usa ka rehiyon nga kilala sa daghang mga umahan ug mga produkto sa agrikultura.",
-      "Ang mga tawo sa Soccsksargen kay masilakon ug masaligan sa ilang mga tradisyon.",
-      "Ang mga pagkaon sa Soccsksargen, sama sa tinagtag ug paksiw, kay popular sa mga lokal ug bisita."
+      {
+        "phil": "Ang Soccsksargen kay usa ka rehiyon nga kilala sa daghang mga umahan ug mga produkto sa agrikultura.",
+        "eng": "Soccsksargen is a region known for its many farmlands and agricultural products."
+      },
+      {
+        "phil": "Ang mga tawo sa Soccsksargen kay masilakon ug masaligan sa ilang mga tradisyon.",
+        "eng": "The people of Soccsksargen are hardworking and trustworthy in their traditions."
+      },
+      {
+        "phil": "Ang mga pagkaon sa Soccsksargen, sama sa tinagtag ug paksiw, kay popular sa mga lokal ug bisita.",
+        "eng": "The foods in Soccsksargen, like tinagtag and paksiw, are popular among locals and visitors."
+      }
     ]
   },
   {
     "_id": "car",
     "name": "Cordillera Administrative Region",
-    "province": [
-      "Abra",
-      "Benguet",
-      "Ifugao",
-      "Kalinga",
-      "Mountain Province",
-      "Apayao"
+    "province_id": [
+      "abra",
+      "benguet",
+      "ifugao",
+      "kalinga",
+      "mountain province",
+      "apayao"
     ],
     "languages": {
       "Tagalog": 0.198,
@@ -515,20 +623,29 @@
     "photo": "",
     "description": "This mountainous region is known for its indigenous tribes, particularly the Igorot people. The Cordilleras are famous for their rice terraces, with the Banaue Rice Terraces being a UNESCO World Heritage Site.",
     "phrases": [
-      "Ti Cordillera Administrative Region ket nabugbugan a kabakiran a nangipundar ti napateg a kultura.",
-      "Adda iti CAR ti dadakkel a baryo a mangted kadagiti natibker a produkto a kasla ti abel, bagnet, ken pinakbet.",
-      "Ti kabambantayan ti CAR ket nasaysayaat a pasyalan para iti agpa-adal, agturismo, ken ag-sports."
+      {
+        "phil": "Ti Cordillera Administrative Region ket nabugbugan a kabakiran a nangipundar ti napateg a kultura.",
+        "eng": "The Cordillera Administrative Region is surrounded by mountains that have fostered important cultural practices."
+      },
+      {
+        "phil": "Adda iti CAR ti dadakkel a baryo a mangted kadagiti natibker a produkto a kasla ti abel, bagnet, ken pinakbet.",
+        "eng": "CAR has large villages that offer strong products such as abel (woven fabric), bagnet (crispy pork), and pinakbet (vegetable dish)."
+      },
+      {
+        "phil": "Ti kabambantayan ti CAR ket nasaysayaat a pasyalan para iti agpa-adal, agturismo, ken ag-sports.",
+        "eng": "The mountains of CAR are excellent spots for education, tourism, and sports."
+      }
     ]
   },
   {
     "_id": "ncr",
     "name": "National Capital Region",
-    "province": [
-      "City of Manila",
-      "First District",
-      "Second District",
-      "Third District",
-      "Fourth District"
+    "province_id": [
+      "city of manila",
+      "first district",
+      "second district",
+      "third district",
+      "fourth district"
     ],
     "languages": {
       "Tagalog": 0.941,
@@ -555,20 +672,29 @@
     "photo": "",
     "description": "The economic, cultural, and political center of the Philippines, NCR (Metro Manila) is a bustling metropolis, home to historical landmarks, malls, and the heart of government offices.",
     "phrases": [
-      "Ang National Capital Region ay sentro ng kalakalan at kultura ng bansa.",
-      "Makikita sa NCR ang mga modernong imprastruktura at mga sikat na destinasyon para sa turismo.",
-      "Ang NCR ay mayamang kasaysayan na nagsisilbing halimbawa ng urbanisasyon at kaunlaran sa Pilipinas."
+      {
+        "phil": "Ang National Capital Region ay sentro ng kalakalan at kultura ng bansa.",
+        "eng": "The National Capital Region is the center of trade and culture of the country."
+      },
+      {
+        "phil": "Makikita sa NCR ang mga modernong imprastruktura at mga sikat na destinasyon para sa turismo.",
+        "eng": "In NCR, you can find modern infrastructure and popular tourist destinations."
+      },
+      {
+        "phil": "Ang NCR ay mayamang kasaysayan na nagsisilbing halimbawa ng urbanisasyon at kaunlaran sa Pilipinas.",
+        "eng": "The NCR has a rich history that serves as an example of urbanization and development in the Philippines."
+      }
     ]
   },
   {
     "_id": "region IV-B",
     "name": "Mimaropa",
-    "province": [
-      "Marinduque",
-      "Occidental Mindoro",
-      "Oriental Mindoro",
-      "Palawan",
-      "Romblon"
+    "province_id": [
+      "marinduque",
+      "occidental mindoro",
+      "oriental mindoro",
+      "palawan",
+      "romblon"
     ],
     "languages": {
       "Tagalog": 0.883,
@@ -595,17 +721,26 @@
     "photo": "",
     "description": "Comprising the islands of Mindoro, Marinduque, Romblon, and Palawan, Mimaropa is known for its pristine beaches, natural reserves, and diverse marine life. Palawan is a global tourist destination.",
     "phrases": [
-      "Ang Mimaropa ay kilala sa mga magagandang beach at natural na tanawin.",
-      "Sa Mimaropa, matutunghayan ang mayamang kultura at kasaysayan ng mga katutubong mamamayan.",
-      "Ang mga pagkain sa Mimaropa, tulad ng seafood, ay tamis at masarap, na sumasalamin sa yaman ng dagat."
+      {
+        "phil": "Ang Mimaropa ay kilala sa mga magagandang beach at natural na tanawin.",
+        "eng": "Mimaropa is known for its beautiful beaches and natural landscapes."
+      },
+      {
+        "phil": "Sa Mimaropa, matutunghayan ang mayamang kultura at kasaysayan ng mga katutubong mamamayan.",
+        "eng": "In Mimaropa, you will witness the rich culture and history of the indigenous people."
+      },
+      {
+        "phil": "Ang mga pagkain sa Mimaropa, tulad ng seafood, ay tamis at masarap, na sumasalamin sa yaman ng dagat.",
+        "eng": "The food in Mimaropa, such as seafood, is sweet and delicious, reflecting the abundance of the sea."
+      }
     ]
   },
   {
     "_id": "nir",
     "name": "Negros Island Region",
-    "province": [
-      "Negros Occidental",
-      "Negros Oriental"
+    "province_id": [
+      "negros occidental",
+      "negros oriental"
     ],
     "languages": {
       "Tagalog": 0.04,
@@ -632,20 +767,29 @@
     "photo": "",
     "description": "Famous for its sugar industry, Negros Island also boasts stunning beaches, rich biodiversity, and vibrant local festivals, particularly the MassKara Festival in Bacolod City.",
     "phrases": [
-      "Ang Negros Island Region usa ka rehiyon nga nahimutang sa tunga-tungang bahin sa Visayas.",
-      "Kilala ang Negros Island sa mga matahom nga tan-awon ug mga plantasyon sa tubo.",
-      "Ang kultura sa Negros Island puno sa mga kasaysayan sa mga mang-uuma ug mga industriya sa asukal."
+      {
+        "phil": "Ang Negros Island Region usa ka rehiyon nga nahimutang sa tunga-tungang bahin sa Visayas.",
+        "eng": "The Negros Island Region is a region located in the central part of the Visayas."
+      },
+      {
+        "phil": "Kilala ang Negros Island sa mga matahom nga tan-awon ug mga plantasyon sa tubo.",
+        "eng": "Negros Island is known for its beautiful landscapes and sugarcane plantations."
+      },
+      {
+        "phil": "Ang kultura sa Negros Island puno sa mga kasaysayan sa mga mang-uuma ug mga industriya sa asukal.",
+        "eng": "The culture of Negros Island is rich in the history of farmers and the sugar industry."
+      }
     ]
   },
   {
     "_id": "armm",
     "name": "Autonomous Region in Muslim Mindanao",
-    "province": [
-      "Basilan",
-      "Lanao del Sur",
-      "Maguindanao",
-      "Sulu",
-      "Tawi-Tawi"
+    "province_id": [
+      "basilan",
+      "lanao del sur",
+      "maguindanao",
+      "sulu",
+      "tawi-tawi"
     ],
     "languages": {
       "Tagalog": 0.088,
@@ -672,20 +816,29 @@
     "photo": "",
     "description": "A culturally rich region, ARMM is home to diverse Muslim communities, with rich traditions, crafts, and cuisine. It also offers stunning beaches and historical sites, such as the beautiful beaches of Tawi-Tawi.",
     "phrases": [
-      "Ang ARMM usa ka rehiyon nga adunay daghang kultura ug kasaysayan nga nagtan-aw sa mga Muslim sa Mindanao.",
-      "Ang mga katawhang ARMM nagpakita ug kalipay ug respeto sa ilang tradisyon ug relihiyon.",
-      "Ang ARMM puno sa mga lugar nga maayo alang sa agrikultura ug kalibutanong kinabuhi."
+      {
+        "phil": "Ang ARMM usa ka rehiyon nga adunay daghang kultura ug kasaysayan nga nagtan-aw sa mga Muslim sa Mindanao.",
+        "eng": "ARMM is a region with a rich culture and history that reflects the Muslim communities in Mindanao."
+      },
+      {
+        "phil": "Ang mga katawhang ARMM nagpakita ug kalipay ug respeto sa ilang tradisyon ug relihiyon.",
+        "eng": "The people of ARMM show joy and respect for their traditions and religion."
+      },
+      {
+        "phil": "Ang ARMM puno sa mga lugar nga maayo alang sa agrikultura ug kalibutanong kinabuhi.",
+        "eng": "ARMM is rich in areas that are suitable for agriculture and rural life."
+      }
     ]
-  }
+  },
   {
     "_id": "region XIII",
     "name": "Caraga",
-    "province": [
-      "Agusan del Norte",
-      "Agusan del Sur",
-      "Surigao del Norte",
-      "Surigao del Sur",
-      "Dinagat Islands"
+    "province_id": [
+      "agusan del norte",
+      "agusan del sur",
+      "surigao del norte",
+      "surigao del sur",
+      "dinagat islands"
     ],
     "languages": {
       "Tagalog": 0.02,
@@ -712,10 +865,18 @@
     "photo": "",
     "description": "Located in Mindanao, Caraga is known for its mineral resources and natural attractions, including enchanted rivers, waterfalls, and pristine beaches. It is home to a rich cultural heritage and abundant wildlife.",
     "phrases": [
-      "Ang Caraga usa ka rehiyon sa Mindanao nga puno sa mga natural nga kahimtang ug kalikupan.",
-      "Ang mga tawo sa Caraga nagapakita ug kahayag sa ilang mga tradisyon ug kultura.",
-      "Ang Caraga usa ka lugar nga puno sa mga bukid, suba, ug dagat, nga maayo alang sa mga adventurero."
+      {
+        "phil": "Ang Caraga usa ka rehiyon sa Mindanao nga puno sa mga natural nga kahimtang ug kalikupan.",
+        "eng": "Caraga is a region in Mindanao filled with natural landscapes and environments."
+      },
+      {
+        "phil": "Ang mga tawo sa Caraga nagapakita ug kahayag sa ilang mga tradisyon ug kultura.",
+        "eng": "The people of Caraga show brightness in their traditions and culture."
+      },
+      {
+        "phil": "Ang Caraga usa ka lugar nga puno sa mga bukid, suba, ug dagat, nga maayo alang sa mga adventurero.",
+        "eng": "Caraga is a place full of mountains, rivers, and seas, perfect for adventurers."
+      }
     ]
   }
-
 ]
