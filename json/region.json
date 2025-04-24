@@ -81,7 +81,7 @@
   {
     "_id": "region III",
     "name": "Central Luzon",
-    "province": [
+    "province_id": [
       "Bataan",
       "Bulacan",
       "Nueva Ecija",

@@ -15,14 +15,14 @@
           "Maguindanao": 0
         },
         "population": {
-          "total": 5026128,
-          "male": 2536297,
-          "female": 2489831
+          "total": 2956726,
+          "male": 1493708,
+          "female": 1463018
         },
         "literacy": {
-          "total": 0.99,
-          "male": 0.99,
-          "female": 0.989
+          "total": 0.992,
+          "male": 0.992,
+          "female": 0.992
         },
         "photo": "",
         "description": "",
@@ -44,14 +44,14 @@
         "Maguindanao": 0
       },
       "population": {
-        "total": 5026128,
-        "male": 2536297,
-        "female": 2489831
+        "total": 188991,
+        "male": 97594,
+        "female": 91397
       },
       "literacy": {
-        "total": 0.99,
-        "male": 0.99,
-        "female": 0.989
+        "total": 0.969,
+        "male": 0.968,
+        "female": 0.97
       },
       "photo": "",
       "description": "",
@@ -73,14 +73,14 @@
       "Maguindanao": 0
     },
     "population": {
-      "total": 5026128,
-      "male": 2536297,
-      "female": 2489831
+      "total": 214336,
+      "male": 109974,
+      "female": 104362
     },
     "literacy": {
-      "total": 0.99,
-      "male": 0.99,
-      "female": 0.989
+      "total": 0.986,
+      "male": 0.986,
+      "female": 0.987
     },
     "photo": "",
     "description": "",
@@ -102,14 +102,14 @@
     "Maguindanao": 0
   },
   "population": {
-    "total": 5026128,
-    "male": 2536297,
-    "female": 2489831
+    "total": 792949,
+    "male": 404509,
+    "female": 388440
   },
   "literacy": {
-    "total": 0.99,
-    "male": 0.99,
-    "female": 0.989
+    "total": 0.986,
+    "male": 0.986,
+    "female": 0.987
   },
   "photo": "",
   "description": "",
@@ -131,14 +131,14 @@
     "Maguindanao": 0.07
   },
   "population": {
-    "total": 5026128,
-    "male": 2536297,
-    "female": 2489831
+    "total": 174613,
+    "male": 89644,
+    "female": 84969
   },
   "literacy": {
-    "total": 0.99,
-    "male": 0.99,
-    "female": 0.989
+    "total": 0.978,
+    "male": 0.977,
+    "female": 0.979
   },
   "photo": "",
   "description": "",
